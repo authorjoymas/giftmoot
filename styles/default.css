@@ -1,0 +1,148 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Calibri Light', 'Calibri', sans-serif;
+    color: #E0E0E0;
+  }
+  
+  body {
+    background-color: #10243dff;
+    line-height: 1.6;
+    font-size: 16px;
+    margin: 1em;
+  }
+
+.background {
+  background-attachment: fixed;
+  background-position: center;
+background-repeat: no-repeat;
+/* background-size: cover; */
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+  h2, h3, h4, h5, h6 {
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    text-align: justify;
+    margin-bottom: 1.5rem;
+  }
+  
+  a {
+    color: #757575;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  a:hover {
+    color: #c4c4c4;
+  }
+
+  li {
+    margin-left: 2em;
+  }
+
+  /* footnotes */
+  .footnotedesc {
+    margin-top: 2em;
+    margin-left: 1em;
+    border-top: 1px solid #555;
+    margin-right: 0.3em;
+    font-size: 1.05em;
+    color: #555;
+}
+
+  /* Blockquote Styling */
+blockquote {
+  border-left: 5px solid #c4c4c4;
+  background-color: rgb(28, 57, 89, 0.7);
+  color: #E0E0E0;
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  position: relative;
+  font-style: normal;
+  backdrop-filter: blur(10px); /* Blur the content behind the element */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+}
+
+blockquote p {
+  text-align: left;
+  margin-bottom: 0;
+}
+
+blockquote footer {
+  text-align: right;
+  font-size: 0.875rem;
+  color: #a0a0a0;
+} 
+
+/* Inline Code Styling */
+code {
+  background-color: rgb(43, 48, 53, 0.9);
+  color: #ffcb6b; /* A contrasting color for code text */
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: 'Courier New', Courier, monospace; /* Monospace font for code */
+  font-size: 0.95em;
+}
+
+/* Block Code Styling */
+pre {
+  background-color: rgb(43, 48, 53, 0.9);;
+  color: #E0E0E0;
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto; /* Enable horizontal scrolling for long code lines */
+  margin-bottom: 1.5rem;
+  backdrop-filter: blur(10px); /* Blur the content behind the element */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+}
+
+pre code {
+  background-color: transparent;
+  color: #ffcb6b;
+  line-height: 1.4;
+}
+
+/*  Desktop/Mobile Sizing*/
+article {
+  width: 80%;
+  margin: auto;
+  padding: 0.5em; 
+  box-sizing: border-box;
+}
+
+@media (max-width: 600px) {
+  article {
+      width: 100%;
+      margin: 0;
+  }
+}
+
+input {
+  background-color: black;
+  color:  #00FF00;
+  margin: 0.01em;
+  border-radius: 0.5em;
+  padding: 0.5em;
+  border: none;
+}
+button {
+  background-color: #555;
+  margin: 0.2em;
+  border-radius: 0.5em;
+  padding: 0.5em;
+  border: none;
+}
+
+button:hover {
+  background-color: #757575;
+}
