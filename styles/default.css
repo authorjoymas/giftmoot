@@ -3,15 +3,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Calibri Light', 'Calibri', sans-serif;
-    color: #E0E0E0;
+    font-family: 'Dubai Light', 'Cambria', serif;
+    color: #2d2d2d;
   }
   
   body {
-    background-color: #10243dff;
+    background-color: rgb(241, 241, 241);
     line-height: 1.6;
-    font-size: 16px;
-    margin: 1em;
+    font-size: 24px;
+    margin-right: 20em;
+    margin-left: 20em;
+    margin-top: 5em;
   }
 
 .background {
@@ -22,11 +24,22 @@ background-repeat: no-repeat;
 }
 
 h1 {
-  text-align: center;
+  font-size: 2.2em;
+  color: #545454;
+  text-align: left;
+  margin-left: 1rem;
   margin-bottom: 1.5rem;
 }
 
-  h2, h3, h4, h5, h6 {
+h2 {
+  font-size: 1.2em;
+  color: #545454;
+  text-align: center;
+  margin-left: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+  h3, h4, h5, h6 {
     margin-bottom: 1rem;
   }
   
@@ -36,13 +49,26 @@ h1 {
   }
   
   a {
-    color: #757575;
+    color: #09734c;
     text-decoration: none;
     transition: color 0.3s ease-in-out;
   }
   
-  a:hover {
-    color: #c4c4c4;
+  a:link, a:visited {
+    border-radius: 10px;
+    background-color: #bacbbe;
+    color: #09734c;
+   /* background-color: #d4d4d4;
+    color: #09734c;*/
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  a:hover, a:active {
+    background-color: #a4b3a8;
+    color: #09734c;
   }
 
   li {
@@ -59,11 +85,54 @@ h1 {
     color: #555;
 }
 
+/*Side Navigation Bar */
+
+
+
+.sidenav {
+  height: 100%;
+  width: 20em;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #cfcfcf;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: none;
+  background-color: none;
+  display: block;
+}
+
+.sidenav a:hover {
+  background-color: #a3a2a2;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+
+
+
   /* Blockquote Styling */
 blockquote {
-  border-left: 5px solid #c4c4c4;
-  background-color: rgb(28, 57, 89, 0.7);
-  color: #E0E0E0;
+  border-radius: 15px;
+  background-color: #cdbfa0;
+  color: #232323;
   margin: 1.5rem 0;
   padding: 1rem 1.5rem;
   border-radius: 10px;

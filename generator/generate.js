@@ -37,7 +37,7 @@ const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile, backgroundPict
       <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Outwatch</title>
+        <title>Giftmoot</title>
         ${cssFile != undefined ? `${defaultCssLink} ${cssLink}`: `${defaultCssLink}`}
       </head>
       <body class='background' ${backgroundPicture != undefined ? `style="background-image: url('${backgroundPictureUrl}');"` : ""}>
