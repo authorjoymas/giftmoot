@@ -8,7 +8,13 @@ const srcDir = path.join(__dirname, '../content');
 const buildDir = path.join(__dirname, '../build');
 const stylesSrcDir = path.join(__dirname, '../styles');
 const stylesBuildDir = path.join(buildDir, 'styles');
-const defaultCssFile = 'default.css';
+const settingsPath = path.join(__dirname, '../settings.yaml');
+const settings = yaml.load(fs.readFileSync(settingsPath, 'utf8'));
+const {
+  defaultCssFile = 'default.css',
+  defaultTopContent = [],
+  defaultBottomContent = [],
+} = settings;
 
 const extractFrontMatter = (fileContent) => {
     const frontMatterMatch = fileContent.match(/^---\s*\n([\s\S]*?)\n---/);
@@ -21,8 +27,10 @@ const extractFrontMatter = (fileContent) => {
   };
 
 // Function to convert Markdown files to HTML with specified CSS
-const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile, backgroundPicture) => {
+const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile, topContents, bottomContents, backgroundPicture) => {
     const htmlContent = marked(markdown);
+    const htmlTopContent = topContents.map(marked).join('\n');
+    const htmlBottomContent =  bottomContents.map(marked).join('\n');
     let cssFilePath = "";
     if(cssFile != undefined) {
       cssFilePath = path.join('styles', cssFile);
@@ -41,10 +49,11 @@ const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile, backgroundPict
         ${cssFile != undefined ? `${defaultCssLink} ${cssLink}`: `${defaultCssLink}`}
       </head>
       <body class='background' ${backgroundPicture != undefined ? `style="background-image: url('${backgroundPictureUrl}');"` : ""}>
-        <div ></div>
+        ${htmlTopContent}
         <article>
         ${htmlContent}
         </article>
+        ${htmlBottomContent}
       </body>
       </html>
     `;
@@ -70,7 +79,17 @@ const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile, backgroundPict
         if(extension == "md") {
           const fileContents = await fs.readFile(filePath, 'utf8');
           const { frontMatter, markdownContent } = extractFrontMatter(fileContents);
-          contents = convertMarkdownToHtml(markdownContent, frontMatter.css, defaultCssFile, frontMatter.background);
+          const topContentFiles = frontMatter.topContent ?? defaultTopContent;
+          const bottomContentFiles = frontMatter.bottomContent ?? defaultBottomContent;
+          const topContents = topContentFiles.map(file => {
+            const fullPath = path.join(srcDir, file);
+            return fs.readFileSync(fullPath, 'utf-8');
+          });
+          const bottomContents = bottomContentFiles.map(file => {
+            const fullPath = path.join(srcDir, file);
+            return fs.readFileSync(fullPath, 'utf-8');
+          });
+          contents = convertMarkdownToHtml(markdownContent, frontMatter.css, defaultCssFile, topContents, bottomContents, frontMatter.background);
           buildFilePath = path.join(buildDir, file.replace('.md', '.html'));
           await fs.outputFile(buildFilePath, contents);
         } else {

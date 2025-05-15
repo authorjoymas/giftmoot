@@ -1,5 +1,3 @@
-<!--#include virtual="content/sidenav.html" -->
-
 # Giftmoot
 
 ## Experiment page

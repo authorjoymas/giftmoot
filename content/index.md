@@ -1,9 +1,3 @@
-<div class="sidenav">
-    ## Giftmoot Theory
-
-   </div>
-
-
 # Giftmoot
 
 Welcome.
