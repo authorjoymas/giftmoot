@@ -1,0 +1,33 @@
+## Signalling in a gifting economy
+
+ Despite the radical differences, many of the basic mechanisms are the same as exist in an exchange economy: people consider the moral and social benefits of their labour and investment, consider their own interests, and network supply and demand through similar channels.  Systems of allocation such as social consideration, lotteries, first-come first-served and procedural decision-making, which are used in various places in the exchange economy, are used in the giftmoot economy.  Now this section turns to a comparison of the way the giftmoot economy deals with the epistemic issues in the exchange economy.
+
+*Counter-signalling is impossible*
+
+In the exchange economy, counter-signalling is the tendency for people with increased needs to have decreased signalling capacity, and for people with satisfied needs to have increased signalling capacity, ostensibly the reverse of the way a rational economy would signal to allocate resources to needs and wants.  The giftmoot economy does not exhibit the same issue, because signalling capacity is stable: the giftmoot provides a clear signalling channel and the ability to signal is not constrained by the material wealth or labour capacity of the actor.  Therefore, a decrease in labour capacity will not result in a decrease in signal capacity, allowing people who suffer misfortune in a manner that makes labour more difficult a consistent and clear way in which to signal their increased needs.
+
+*Signal inversion prevented*
+
+In the exchange economy, epistemic inversion is the reversal of the role of virtual and genuine resources, where instead of virtual resources as the medium of exchange helping allocate genuine resources to needs, genuine resources are used as a means to indefinitely acquire virtual resources, preventing the genuine resources from being allocated to needs.  Without exchanges and a medium of exchange, epistemic inversion is prevented.
+
+Without epistemic inversion, speculative bubbles should be avoided, lessening the impact of the business cycle changes in demand and supply.  In fact, because wages would not exist, economic slowdowns - where demand genuinely decreases - would not cause knock-on effects with exchange capacity and the cycle would be tempered.
+
+*The paradox of efficiency resolved*
+
+The exchange economy exhibits a tension between the drive for efficiency from businesses, and the requirement for labour opportunities to obtain exchange capacity for workers.  This tension can create labour inefficiencies, loss of labour capacity, excess labour through busy jobs, and a demand for indefinite growth to offset efficiency with increased opportunities for labour.  Where it is not focused on labour, many of these efficiencies result in lower quality products.
+
+When labour efficiency is increased in the giftmoot economy and labour hours are reduced, this does not affect the signalling capacity of workers.  This means that increased efficiency should not be objected to by workers, and does not need to be offset by increased labour requirements elsewhere.  The decoupling of labour and personal survival (though not general survival, which requires labour) means that there should be no roadblocks to increased efficiency, and the outcome should be less overall labour until new productive opportunities arise, without placing workers into poverty.
+
+Moreover, the motivation for efficiency will be from workers to make their jobs easier and save themselves labour hours, in part the opposite of the drive to ensure their hours are preserved without being allocated more and more work.  This differs from the motivation of the employers to generate more profit, which means that the efficiency gains should always preserve or increase the quality of the product or process, rather than compromise the quality of the product.
+
+This resolution also means that the economy does not require indefinite expansion; if efficiency gains are made and less labour is needed, then people in general can enjoy more leisure time without this placing stress on the economy by lowering consumption or placing people into poverty by reducing their capacity to be allocated the necessary resources.
+
+*Under-signalling is prevented*
+
+Significantly, some of the most fundamental epistemic gaps - people who have no exchange capacity, largely through a lack of ability to labour - are no longer gaps in a giftmoot economy.  The survival of an individual, being decoupled from exchange capacity, is instead more closley linked to their ability to articulate their needs to a giftmoot, which is generally a lower threshold.
+
+This also dissolves a binary present in the exchange economy: the binary between workers and non-workers, where workers gain resources through exchanges and non-workers are treated as a special class who require a different economic framework to support them - family, community, charity or state gifts.  In a gift economy, these non-workers do not constitute a special class who require a special economic framework; like all other people, they receive resources through gift-giving.  The overall framework of the economy is therefore simplified, the number of special cases are reduced, and the discursive judgement of occupying one class or another is less relevant.
+
+There is a second binary that is dissolved as well: the distinction between “economic” and “non-economic” labour, or paid and unpaid work.  In the exchange economy, work is classified into two categories: that for which an exchange is completed for labour, and that which, while it may provide benefits and produce positive outcomes, is not correlated with an exchange.  This latter type usually has no employer with exchange capacity who directs the work, but rather work that provides benefits for family and community, such as housework, caring work, and volunteer work.  Much of this work has traditionally been done by, and continues to be done by, women, and remains unremunerated as some “extra-economic” labour that does not form part of the “real” exchange economy.  Once again, these two categories have different economic frameworks - that of the exchange for certain types of work, and that of the gift for other types of work.
+
+In the giftmoot economy, all labour is a gift, provided voluntarily and decoupled from the receipt of necessary resources to survive.  This dissolves the line between “economic” and “non-economic” labour and not place housework, caring, child-rearing or community support into a separate, de-prioritised category.

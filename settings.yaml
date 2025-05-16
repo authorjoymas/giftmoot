@@ -2,4 +2,4 @@ defaultCssFile: default.css
 defaultTopContent:
   - sidenav.md
 defaultBottomContent:
-  - footer.md
+  
