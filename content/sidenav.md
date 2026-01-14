@@ -1,9 +1,9 @@
 <div class="sidenav">
-    <button type="button" class="collapsible">Giftmoot Introduction</button>
-    <div class="content">
+    <details>
+    <summary>Introduction</summary>
     <a href="index.html">Home</a>
     <a href="overview.html">Overview</a>
-    </div>
+    </details>
     <h2>The Exchange Economy</h2>
     <a href="exchangeproblems.html">Problems with the exchange</a>
     <a href="exchangegiftgiving.html">Gifting in exchange economies</a>
