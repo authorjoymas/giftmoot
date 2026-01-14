@@ -9,12 +9,10 @@ const buildDir = path.join(__dirname, '../build');
 const stylesSrcDir = path.join(__dirname, '../styles');
 const stylesBuildDir = path.join(buildDir, 'styles');
 const settingsPath = path.join(__dirname, '../settings.yaml');
-const settings = yaml.load(fs.readFileSync(settingsPath, 'utf8'));
-const {
-  defaultCssFile = 'default.css',
-  defaultTopContent = [],
-  defaultBottomContent = [],
-} = settings;
+const settings = yaml.load(fs.readFileSync(settingsPath, 'utf8')) ?? {};
+const defaultCssFile = settings.defaultCssFile ?? 'default.css';
+const defaultTopContent = settings.defaultTopContent ?? [];
+const defaultBottomContent = settings.defaultBottomContent ?? [];
 
 const extractFrontMatter = (fileContent) => {
     const frontMatterMatch = fileContent.match(/^---\s*\n([\s\S]*?)\n---/);
@@ -102,6 +100,6 @@ const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile, topContents, b
       console.error('Error generating site:', error);
     }
   };
-  
+
   // Run the generator
   generateSite();
