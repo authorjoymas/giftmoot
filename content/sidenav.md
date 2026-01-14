@@ -1,6 +1,7 @@
 <div class="sidenav">
+    <h2>Introduction</h2>
     <details>
-    <summary>Introduction</summary>
+    <summary>Content</summary>
     <a href="index.html">Home</a>
     <a href="overview.html">Overview</a>
     </details>
