@@ -34,8 +34,9 @@ h1 {
 h2 {
   font-size: 1.2em;
   color: #545454;
-  text-align: center;
+  text-align: left;
   margin-left: 1rem;
+  margin-top: 2rem;
   margin-bottom: 1.5rem;
 }
 
@@ -73,6 +74,18 @@ h2 {
 
   li {
     margin-left: 2em;
+  }
+  /* table */
+
+  th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #bacbbe;
+  color: #09734c;
+}
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
   }
 
   /* footnotes */

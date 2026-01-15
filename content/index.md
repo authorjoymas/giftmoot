@@ -9,7 +9,7 @@ In the articles on this site, I try to set out the following ideas:
 - a non-reciprocal gifting economy would work without causing these problems
 - a non-reciprocal gifting economy could be coordinated through a type of associative democracy, or "giftmoots"
 
-## What's going on with the economy?
+## How we imagine the economy
 
 In 2008 there was a Global Financial Crisis.
 
@@ -33,4 +33,6 @@ So if we can imagine an economy that makes problems for us, can we imagine a bet
 
 In 2020 Covid-19 spread across the world - a contagious virus that threatened to overwhelm hospitals.  To prevent the spread, Australian governments implemented lockdowns, meaning that many people could not go to work, and many people could not enter or exit the country.  Economic activity ground almost to a halt.  There were less people working, less things being sold, less things being produced, less things being shipped into Australia.  Overall, there was less stuff.  Unlike the 2008 crisis, there were clear material conditions that caused this economic downturn.
 
-In response, the Australian government doubled the amount of welfare for unemployed people, and relaxed the conditions for receiving unemployment payments.  A few years later, various studies were conducted that reviewed the impacts of these payments, and the result was that a wide range of poverty indicators had been significantly reduced when people had access to these payments.  That is, **despite the material conditions that meant we had access to less stuff, we imagined the economy differently and managed to reduce poverty**.  We _can_ imagine a better economy.
+In response, the Australian government doubled the amount of welfare for unemployed people, and relaxed the conditions for receiving unemployment payments.  A few years later, various studies were conducted that reviewed the impacts of these payments, and the result was that a wide range of poverty indicators had been significantly reduced when people had access to these payments.
+
+These two cases indicate something very important: **when we had good material conditions, we imagined the economy in such a way that we caused poverty, and when we had worse material conditions, we imagined the economy differently and managed to reduce poverty**.  While material conditions are a big factor in overall economic health, the way we imagine the economy has an enormous, life-changing impact.  We _can_ imagine a better economy.
