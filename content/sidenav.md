@@ -13,5 +13,4 @@
     <a href="x1amarketreq.html">What do exchange economies require?</a>
     <a href="x2ahealthyeconomy.html">What is a healthy economy?</a>
         </details>
-    
-        </div>
+            </div>
