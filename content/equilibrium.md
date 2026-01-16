@@ -1,4 +1,4 @@
-*## Equilibrium in goftmoot allocation
+## Equilibrium in goftmoot allocation
 
 The description of giftmoots so far has been of a type of economic travel agent, connecting demand to supply, as community and industry bodies who are experts in their specialist areas, as institutions of trust an anonymity, as investors, and as network nodes in an economic chain from producer to consumer.  Giftmoots replace the signalling function that prices perform in an exchange economy, and by using request and production information, democratic processes, and investment consideration, they use largely the same considerations and processes by actors.  However, one claim of advocates of the exchange economy is that the market is self-regulating against bad faith actors - that is, it has inherent mechanism, through profit-seeking, to overcome the potentially discriminatory behaviour of actors.
 

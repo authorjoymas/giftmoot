@@ -9,6 +9,8 @@ In the articles on this site, I try to set out the following ideas:
 - a non-reciprocal gifting economy would work without causing these problems
 - a non-reciprocal gifting economy could be coordinated through a type of associative democracy, or "giftmoots"
 
+I think a re-imagining of the economy doesn't just change the way we need to consider poverty, but also ideas such as work, fairness and justice.
+
 ## How we imagine the economy
 
 In 2008 there was a Global Financial Crisis.
