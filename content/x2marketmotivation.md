@@ -1,4 +1,4 @@
-# What exchanges motivate
+# What exchange economies motivate?
 
 A system of exchange motivates the people within it to act in a certain way.  If you're in the system, and you want to survive or to thrive, you'll need to take certain actions or think certain ways in order get there.  These aren't necessarily pathological - they are logical, reasonable things that everyday people do in good faith.
 

@@ -6,19 +6,12 @@
     <a href="overview.html">Overview</a>
     </details>
     <h2>The Exchange Economy</h2>
-    <a href="exchangeproblems.html">Problems with the exchange</a>
-    <a href="exchangegiftgiving.html">Gifting in exchange economies</a>
-    <a href="signalinversion.html">Signalling, under-signalling and signal inversion</a>
-    <h2>Gifts</h2>
-    <a href="whatisagift.html">What is a gift?</a>
-    <a href="giftbenefits.html">Signalling in a gifting economy</a>
-    <a href="giftwork.html">Work in a gifting economy</a>
-    <h2>Giftmoots</h2>
-    <a href="giftmootintro.html">Introduction to giftmoots</a>
-    <a href="giftmootdemos.html">Giftmoots as democratic</a>
-    <a href="giftmootfin.html">Giftmoots as financial institutions</a>
-    <a href="mootmembers.html">Giftmoot membership</a>
-    <h2>Giftmoot economics</h2>
-    <a href="allocation.html">Allocation methods</a>
-    <a href="equilibrium.html">Equilibrium in giftmoots</a>
+    <details>
+    <summary>Content</summary>
+    <a href="x1market.html">Liberal market economies</a>
+    <a href="x2marketmotivation.html">What do exchange economies motivate?</a>
+    <a href="x1amarketreq.html">What do exchange economies require?</a>
+    <a href="x2ahealthyeconomy.html">What is a healthy economy?</a>
+        </details>
+    
         </div>
