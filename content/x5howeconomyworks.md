@@ -1,0 +1,3 @@
+# How does an exchange economy actually work?
+
+In an idealised exchange economy, the only economic activity would be exchanges, and they would allow society to rationally allocate resources to where they need to go.  Not many people genuinely believe this is the best type of economy - perhaps some economists from the Austrian school and some libertarians.  But the basic idea - that exchanges are necessary for widespread ratonal allocation and that other types of economic activity can be distortive - is shared by a wide variety of mainstream (and non-mainstream) economists.
