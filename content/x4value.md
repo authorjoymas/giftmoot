@@ -57,6 +57,8 @@ The four interesting ones are outlined here:
         </tr>
             </table>
 
+<br>
+
 I want to work through these orderings one by one, and think about how the exchange can interrupt the intuition of whether a good is worth making, and how it should be allocated.
 
 ### Use > exchange > cost
@@ -67,7 +69,7 @@ This is the ideal scenario for a market.  A good that has this ordering of value
 
 Note that "the market" doesn't have to be a particular actor who functions as an intermediary (like a shopkeeper).  It could, instead, simply be the structure of the exchange.  So if the apple-farmer wants to sell apples directly to consumers, the fact that an exchange occurs between them means that there is exchange-value at play.  For example, society in general might think that it is a good thing to grow apples and feed them to hungry people, but the farmer will only part with the apples if both they and the consumer agree upon the exchange value of the apples.  The next scenario shows what it looks like if this doesn't work out.
 
-_Use > cost > exchange_
+### Use > cost > exchange
 
 Again, ignoring exchange-value, for this good the use-value is higher than the cost-value, which indicates that society in general thinks it would be worth making this good.
 
@@ -81,7 +83,7 @@ The result is that the medicine is not made, _even though_ society generally bel
 
 This is a form of under-signalling, where the people with the need for medicine cannot sufficiently signal the market in order to receive the medicine.
 
-_Exchange > use > cost_
+### Exchange > use > cost
 
 This is another scenario where the use-value of the good is higher than the cost-value of the good, so, in general, this is a good that society thinks it is worth making.  In addition, the exchange-value is higher than the cost-value, so the market is happy to have the product.  However, in this scenario the exchange-value is also higher than the use-value, which means that the market is less likely to pass the product on the end-user.
 
@@ -93,5 +95,12 @@ But this situation is likely temporary.  At some point the use-value was likely 
 
 Quite likely there will also be a signal reversion, where the exchange-value once again dips below the use-value to become an ideal market good.  If the exchange-value remains high indefinitely, then the good will never end up being sold to the users, and if the good can never be sold to the users then the future exchange-value ceases to exist as it will never be exchanged.  Some forms of this transition are called market "corrections".  Note that if parties took on a lot of debt to purchase the asset at an increasing exchange-value, when the exchange-value dips the debt will remain; this is what happened in 2007 and 2008 during the Global Financial Crisis.
 
-_Exchange > cost > use_
+### Exchange > cost > use
 
+Here we come across a good where the use-vale is lower than the cost-value; that is, society in general thinks that this good is either of too little use given the cost, or too high a cost given the use, and not worth making.  Most of the time, these goods won't be made.
+
+But there is one clear exception, and that is money.  Any market economy will need money of some sort, whether it is a currency you can hold in your hand or a way of organising things on a ledger.  The money itself doesn't have an inherent use-value, but it does have an exchange-value, and so it is worth making.  Not that many things have an exchange-value and no other use-value except for money and various financial instruments, so it is only by the collective agreement on the exchange function of these goods in a system of exchange that they gain any value whatsoever.
+
+## Overview
+
+The logic of value relationships when teh only values are use-value and cost-value are rather straightforward, but they become more complicated when exchange-value is brought into the mix, as it must be if there is a system of exchange.  While there are ideal market goods, there are also other configurations where a nominally worthy good (where the use-value is higher than the cost-value) is rendered not worth making, or not worth transferring to end users, and other occasions where a nominally unworthy good is considered worth it.  The exchange disrupts and distorts the otherwise straightforward evaluation of worth.

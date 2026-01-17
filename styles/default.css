@@ -25,7 +25,7 @@ background-repeat: no-repeat;
 
 h1 {
   font-size: 2.2em;
-  color: #545454;
+  color: #125333;
   text-align: left;
   margin-left: 1rem;
   margin-bottom: 1.5rem;
@@ -33,14 +33,24 @@ h1 {
 
 h2 {
   font-size: 1.2em;
-  color: #545454;
+  color: #125333;
   text-align: left;
   margin-left: 1rem;
   margin-top: 2rem;
   margin-bottom: 1.5rem;
 }
 
-  h3, h4, h5, h6 {
+h2 {
+  font-size: 1.1em;
+  font-style: italic;
+  color: #125333;
+  text-align: left;
+  margin-left: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+  
+  h4, h5, h6 {
     margin-bottom: 1rem;
   }
   

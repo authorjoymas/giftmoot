@@ -18,5 +18,7 @@
     <summary>Expand</summary>
     <a href="x3problems.html">Problems with the exchange</a>
     <a href="x4value.html">Use, cost and exchange value</a>
+    <a href="x5paradox.html">The paradox of efficiency</a>
+    <a href="x7busyjobs.html">Busy jobs and busy consumption</a>
         </details>
             </div>
