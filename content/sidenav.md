@@ -1,6 +1,8 @@
 <div class="sidenav">
     <h2>Introduction</h2>
     <details>
+    <summary>Economy</summary>
+    <details>
     <summary>Expand</summary>
     <a href="index.html">Home</a>
     <a href="overview.html">Overview</a>
@@ -20,5 +22,7 @@
     <a href="x4value.html">Use, cost and exchange value</a>
     <a href="x5paradox.html">The paradox of efficiency</a>
     <a href="x7busyjobs.html">Busy jobs and busy consumption</a>
+    <a href="x6busmotivations">Business motivations</a>
+        </details>
         </details>
             </div>
