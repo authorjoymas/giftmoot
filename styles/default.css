@@ -49,8 +49,17 @@ h3 {
   margin-top: 2rem;
   margin-bottom: 1.5rem;
 }
-  
-  h4, h5, h6 {
+
+h4 {
+  font-size: 0.9em;
+  color: #125333;
+  text-align: left;
+  margin-left: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+  h5, h6 {
     margin-bottom: 1rem;
   }
   
@@ -212,7 +221,7 @@ article {
   box-sizing: border-box;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1050px) {
   article {
       width: 100%;
       margin: 0;
