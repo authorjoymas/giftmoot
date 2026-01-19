@@ -63,5 +63,9 @@ In monopolisation, a company becomes the only company to sell a particular produ
 
 Cartelisation, on the other hand, is when businesses remain nominally separate, but work together instead of competing, either carving up territory or agreeing not to compete on price.  The effect is similar to a monopoly, in that customers do not have any real alternatives, because the competing businesses have secretly organised to sell the same quality products at the same price.
 
+## Perverse incentives
+
+## Externalising costs
+
 
  

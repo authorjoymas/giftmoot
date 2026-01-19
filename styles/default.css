@@ -221,10 +221,27 @@ article {
   box-sizing: border-box;
 }
 
-@media (max-width: 1050px) {
-  article {
-      width: 100%;
-      margin: 0;
+/* Mobile Optimization */
+@media screen and (max-width: 1050px) {
+  body {
+    margin: 2em 1em; /* Removes the 20em margins so text can expand */
+    font-size: 18px;   /* Slightly smaller font for better fit */
+  }
+
+  .sidenav {
+    position: relative; /* Makes it sit on top of the content instead of floating over it */
+    width: 100%;        /* Takes up full width */
+    height: auto;
+    padding-bottom: 20px;
+  }
+
+  .sidenav a {
+    display: inline-block; /* Allows menu items to sit side-by-side if they fit */
+    font-size: 18px;
+  }
+
+  .main {
+    margin-left: 0; /* Removes the gap meant for the fixed sidebar */
   }
 }
 
