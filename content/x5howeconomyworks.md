@@ -8,7 +8,7 @@ To try and illustrate the issues with an exchange economy, I'm going to start by
 
 I'm going to start with a very simplified economy that has two sectors: one where things are produced, and one where things are consumed.  Between them are two basic interactions: one where consumers exchange their labour with the productive sector for money (that is, they work making things) and one where consumers exchange their money with the productive sector for things.  So, for example, people work on farms, exchanging their labour for money, the farms produce food, and then people buy the food with the money they earnt from working.  Or someone might sell clothes that they make for money, and use the money to buy food to live (paying themselves for their labour).
 
-[Pure exchange model](/content/images/pureexchangemodel.png)
+[!Pure exchange model](/content/images/pureexchangemodel.png)
 
 Obviously the economy is more complicated than this: businesses sell things to each other, for example.  But this is a clear overview of an economy where resources are only transferred through exchanges.
 
@@ -19,6 +19,10 @@ The second missing group are people who do not work because, for some reason, th
 So the consumption sector needs to be split up differently.  There are multiple ways to do this, and it can get pretty complicated, but I am going to stick with just one simple one for a moment.  I'm going to split the consumption sector into two groups: one which can contribute to the productive sector directly with either labour or investment, and one which cannot.  Realistically, even if this were the only way to frame it, this should still be a continuum between people who can contribute a lot and those who can contribute nothing at the other and those who can contribute some in the middle, but I am going to imagine a clear cut line between them just for simplicity.
 
 On one side of that line are the people who can contribute directly and receive enough remuneration from their contribution to satisfy their own needs by buying from the productive sector: that is, there is enough remuneration from the productive sector for their contribution that they can satisfy their needs.  On the other side of the line are those people who cannot contribute a sufficient amount that their remuneration will cover their needs.  In this group are people who have basic needs - leet's say survival needs - that are unmet through exchanges.
+
+See fig 2.
+
+
 
 
 
