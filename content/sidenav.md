@@ -20,6 +20,13 @@
     <a href="x4value.html">Use, cost and exchange value</a>
     <a href="x5paradox.html">The paradox of efficiency</a>
     <a href="x7busyjobs.html">Busy jobs and busy consumption</a>
-    <a href="x6busmotivations">Business motivations</a>
+    <a href="x6busmotivations.html">Business motivations</a>
+    <a href="x8businesscycle.html">Business cycle, speculation and crises</a>
+    <a href="xinflation.html">Inflation and liquidity</a>
         </details>
+    <h4>Solutions in the Exchange Economy</h4>
+    <details>
+    <summary>Expand</summary>
+    <a href="x5howeconomyworks.html">How a pure exchange economy works</a>
+          </details>
             </div>
