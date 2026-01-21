@@ -59,3 +59,5 @@ However, once we open up the concept of the household and examine the things ins
 <img src="/images/pureexchangegiftmodel.png" alt="Gifting Exchange Model">
 
 Here, there are a group of people who are not remunerated through work (or are not sufficiently remunerated through work to meet their needs) who receive resources through gift-giving.  Gift-giving _is_ a solution to the issue of ensuring people's basic needs are met (in fact, I will go on to argue that it is the _only_ solution), but it is definitely not an exchange.  A pure exchange economy cannot meet these people's needs, which is problematic by various metrics of a healthy economy, and a problem for the future of the economy.
+
+Pure exchange economies don't have a solution for under-remunerated people; they need to rely on some other method of transferring resources to these people.  In the next article, I want to show that the only real solutions are gifting solutions.
