@@ -10,6 +10,9 @@ I'm going to start with a very simplified economy that has two sectors: one wher
 
 <img src="images/pureexchangemodel.png" alt="Pure Exchange Model">
 
+[!Pure exchange model](/images/pureexchangemodel.png)
+
+
 Obviously the economy is more complicated than this: businesses sell things to each other, for example.  But this is a clear overview of an economy where resources are only transferred through exchanges.
 
 This model of the economy is wrong, however, because it misses a very important factor: not everyone works.  In this simplified model, I've made a single category for all the consumers and all the workers, which gives the impression that consumers gain their ability to buy things from the market due to the remuneration from their labour.  There are two fundamental exceptions to this, however.  The first is that some people have assets and savings and don't need to work.  Either they are pure consumers who provide no labour, or they are consumers who also provide capital to the productive sector as an investment (that is, they exchange some money for the opportunity of more money later).  It might seem a little bit strange to put this aside, but I am going to, and I will pretend for the moment that investing is the same as labouring: the person provides something necessary for production, and is remunerated for it.
