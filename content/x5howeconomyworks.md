@@ -20,7 +20,8 @@ So the consumption sector needs to be split up differently.  There are multiple 
 
 On one side of that line are the people who can contribute directly and receive enough remuneration from their contribution to satisfy their own needs by buying from the productive sector: that is, there is enough remuneration from the productive sector for their contribution that they can satisfy their needs.  On the other side of the line are those people who cannot contribute a sufficient amount that their remuneration will cover their needs.  In this group are people who have basic needs - leet's say survival needs - that are unmet through exchanges.
 
-See fig 2.
+<img src="/content/images/noremunmodel.png" alt="Incomplete Exchange Model">
+
 
 The big question for a pure exchange model is: How do these people live, using only exchanges?  How do they get enough food, medicine or shelter to survive?  The short answer is that the exchange cannot provide this - if there is nothing contributed, there is nothing received in return.  This is a problem for a pure exchange economy, because it means that there is an entire population of people who are unable to have their needs met, which I raised earlier as an indicator of poor economic health.  Moreover, a lot of these people are future labourers, which means that the future health of the economy by any metric is at stake.
 
@@ -54,7 +55,6 @@ The second problem is that it erases an entire type of economic activity: gift-g
 
 However, once we open up the concept of the household and examine the things inside, the model should look like this:
 
-se fig 3.
-
+<img src="/content/images/pureexchangegiftmodel.png" alt="Gifting Exchange Model">
 
 
