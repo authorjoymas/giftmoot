@@ -29,5 +29,6 @@
     <summary>Expand</summary>
     <a href="x5howeconomyworks.html">How a pure exchange economy works</a>
     <a href="s1gifting.html">Gifting in an exchange economy</a>
+    <a href="x9econcalc.html">Economic calculation</a>
           </details>
             </div>

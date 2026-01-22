@@ -34,11 +34,22 @@ The other factor is tax.  Governments make the argument that they can only affor
 
 The additions needed to an exchange economy in order to make it function, therefore, are many and complicated.  The picture is no longer of the productive sector, the remunerated and the under-remunerated, but also of the government and an extra type of economic transfer.  Filling in the holes in the exchange economy requires a host of scaffolding.
 
+See fig. govt. model
+
 ## Community gifting
 
+The other main source of non-reciprocal gifting is done through community channels, such as volunteering and unpaid work.
 
-## Something
+Volunteering is generally the term for unpaid work where the work is done for people or purposes outside of the "household".  There are at least two categories: those where it is done for the immediate community in a non-professional capacity, such as volunteering to help at a child's school, and where it is done in a professional capacity and may be outside the immediate community, such as volunteer firefighters, doctors and educators.  In some places various emergency response services, such as firefighting, storm damage response, car accident response and others are done by in part by volunteers, and many people's access to medical care is only available through volunteering.
 
-This is not necessarily a very big problem in-and-of-itself, because very few people advocate for pure exchange economies.  However, many people who advocate for market economies _prefer_ the exchange, and this does lead to a lot of rhetoric regarding how the exchange should solve most problems and other solutions are inferior and should be put aside.  The market, goes the theory, will best allocate resources when left alone, and non-market approaches are disruptive interventions.
+Unpaid work is work that goes unpaid either within the household or within a workplace.  A lot of this work is unpaid "domestic" work, and including cooking, cleaning, child-raising, caring for family members, house and property maintenance and improvements, and the like.  Unpaid professional work includes things like unpaid overtime at existing workplaces, internships, and similar.
 
-This is a fairly significant problem because 
+One argument made is that these are not "economically productive" jobs because they are jobs that everyone has to do for themselves anyway; that is, it is just a general expectation that people cook their own meals and clean their own houses and this shouldn't be considered in an evaluation of the economy.  The other view is that if these are jobs that people are regularly paid for, and if these are jobs that people do for other people, then they are legitimate productive jobs.  For example, people are paid to cook meals in a professional capacity, to care for children and ill and elderly people throughout the day, to clean houses, and so on.  There is also the consideration of opportunity cost: a person who cares for an ill relative has less time to participate in remunerated work.  These jobs also support workers, such as the traditional expectation of a spouse maintaining the house, doing the washing and the cooking and other chores, while their partner earns money in the market.  The money-earner is perhaps able to be more productive at their job because they do not have to spend time and energy maintaining the house.
+
+Even families staying together can be considered a form of gifting: if an adult child or elderly parent stays at the house rent-free, this is also a form of gifting - one that saves people from homelessness if housing prices are high or aged care is too expensive.
+
+## The solution is always gifting
+
+So far I've spent a lot of time illustrating that the exchange causes a host of problems, a major one of which is that people have clearly defined survival needs that simply cannot be met through market exchanges.  The solution to this type of problem, in any exchange economy, is always gifting, whether it is gifting from the government, private organisations or the community, whether it is gifting that is done deliberately and consciously or whether people don't even realise that this is an economic activity.
+
+The exchange causes other issues as well, such as businesses being motivated to cut corners or the need for continual economic growth, and the current solutions for these issues are generally regulation, causing a tension between the structural motivations of a system of exchange and the regulatory environment that tries to restrain them.  But I want to suggest that there is a way to resolve these issues without this tension, and I think the solution for these problems are the same as the solution for meetnig people's basic needs: gifting.
