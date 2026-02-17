@@ -7,7 +7,9 @@ const yaml = require('js-yaml');
 const srcDir = path.join(__dirname, '../content');
 const buildDir = path.join(__dirname, '../build');
 const stylesSrcDir = path.join(__dirname, '../styles');
+const imagesSrcDir = path.join(__dirname, '../images');
 const stylesBuildDir = path.join(buildDir, 'styles');
+const imagesBuildDir = path.join(buildDir, 'images');
 const settingsPath = path.join(__dirname, '../settings.yaml');
 const settings = yaml.load(fs.readFileSync(settingsPath, 'utf8')) ?? {};
 const defaultCssFile = settings.defaultCssFile ?? 'default.css';
@@ -63,9 +65,11 @@ const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile, topContents, b
         // Ensure the build directory exists
         await fs.ensureDir(buildDir);
         await fs.ensureDir(stylesBuildDir);
+        await fs.ensureDir(imagesBuildDir);
 
         // Copy all CSS files from styles to build/styles
         await fs.copy(stylesSrcDir, stylesBuildDir);
+        await fs.copy(imagesSrcDir, imagesBuildDir);
   
       // Read all files from the src directory
       const files = await fs.readdir(srcDir);
