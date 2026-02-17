@@ -78,6 +78,8 @@ That said, Mises and Hayek _did_ make observations about the success of markets 
 
 So the economic calculation problem in its weak form argues that central planning is less rational than markets with prices, and in its strong form argues that markets are the best and possibly only way to allocate rationally.  But the layout of the argument doesn't really give us a way to check if this is true - especially the strong form.
 
+What we can say is that people are constantly finding non-exchange ways of allocating resources, which is an indication that the exchange method of allocating resources has some deficiencies, which I have tried to point out in previous sections.
+
 ## Are prices the only way?
 
 So, even if prices don't provide perfect signalling information, do they at least provide better signalling information than other methods?  If the economic calculation argument is correct, then we can't create a better system than markets and prices to help us allocate rationally, even if the results are sometimes less than we would have desired.  Following this line of thinking, if poverty and wealth inequality occur, they are probably the best outcomes we could hope for given the economic context at the time.
@@ -94,4 +96,4 @@ This conclusion isn't very satisfying either. First, there is a lot of debate ab
 
 ## There are other ways
 
-In these first few sections I've done my best to outline what the liberal market economy looks like, how it's built on the concept of the exchange, how this concept causes a host of problems, how they are solved with non-reciprocal gifting, and how the arguments that the exchange can do something that non-reciprocal gifting cannot is not very sound.  In a later section, I'll build up a model of the economy based solely on non-reciprocal gifting and think the model through.
+In these first few sections I've done my best to outline what the liberal market economy looks like, how it's built on the concept of the exchange, how this concept causes a host of problems, how they are solved with non-reciprocal gifting, and how the arguments that the exchange can do something that non-reciprocal gifting cannot are not very sound.  In a later section, I'll build up a model of the economy based solely on non-reciprocal gifting and think the model through.
