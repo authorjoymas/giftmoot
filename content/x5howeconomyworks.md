@@ -8,7 +8,7 @@ To try and illustrate the issues with an exchange economy, I'm going to start by
 
 I'm going to start with a very simplified economy that has two sectors: one where things are produced, and one where things are consumed.  Between them are two basic interactions: one where consumers exchange their labour with the productive sector for money (that is, they work making things) and one where consumers exchange their money with the productive sector for things.  So, for example, people work on farms, exchanging their labour for money, the farms produce food, and then people buy the food with the money they earnt from working.  Or someone might sell clothes that they make for money, and use the money to buy food to live (paying themselves for their labour).
 
-<img src="/images/pureexchangemodel.png" alt="Pure Exchange Model">
+![Pure Exchange Model](/images/fig1pureexchange.png)
 
 
 Obviously the economy is more complicated than this: businesses sell things to each other, for example.  But this is a clear overview of an economy where resources are only transferred through exchanges.
@@ -21,7 +21,7 @@ So the consumption sector needs to be split up differently.  There are multiple 
 
 On one side of that line are the people who can contribute directly and receive enough remuneration from their contribution to satisfy their own needs by buying from the productive sector: that is, there is enough remuneration from the productive sector for their contribution that they can satisfy their needs.  On the other side of the line are those people who cannot contribute a sufficient amount that their remuneration will cover their needs.  In this group are people who have basic needs - leet's say survival needs - that are unmet through exchanges.
 
-<img src="/images/noremunmodel.png" alt="Incomplete Exchange Model">
+![Incomplete Exchange Model](/images/fig1aincomplete.png)
 
 
 The big question for a pure exchange model is: How do these people live, using only exchanges?  How do they get enough food, medicine or shelter to survive?  The short answer is that the exchange cannot provide this - if there is nothing contributed, there is nothing received in return.  This is a problem for a pure exchange economy, because it means that there is an entire population of people who are unable to have their needs met, which I raised earlier as an indicator of poor economic health.  Moreover, a lot of these people are future labourers, which means that the future health of the economy by any metric is at stake.
@@ -56,11 +56,8 @@ The second problem is that it erases an entire type of economic activity: gift-g
 
 However, once we open up the concept of the household and examine the things inside, the model should look like this:
 
-<img src="/images/pureexchangegiftmodel.png" alt="Gifting Exchange ModelA">
+![Gifting Exchange Model](/images/fig2realexchange.png)
 
-![Gifting Exchange ModelB](/images/pureexchangegiftmodel.png)
-
-![Gifting Exchange ModelC](/pureexchangegiftmodel.png)
 
 Here, there are a group of people who are not remunerated through work (or are not sufficiently remunerated through work to meet their needs) who receive resources through gift-giving.  Gift-giving _is_ a solution to the issue of ensuring people's basic needs are met (in fact, I will go on to argue that it is the _only_ solution), but it is definitely not an exchange.  A pure exchange economy cannot meet these people's needs, which is problematic by various metrics of a healthy economy, and a problem for the future of the economy.
 

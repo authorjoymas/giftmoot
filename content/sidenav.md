@@ -37,28 +37,47 @@
     <a href="g5whythegift.html">Why gifting?</a>
     <a href="g4wealthmotivation.html">The concept of wealth</a>
     <a href="g6paradox.html">The paradox of efficiency</a>
-                <h4>Why would people work?</h4>
-    <a href="underconstruction.html">Rational motivation to work</a>
-    <a href="underconstruction.html">Personal motivations to work</a>
-    <a href="underconstruction.html">What about free riders?</a>
-    <a href="underconstruction.html">Equilibrium and free riders</a>
+                <h4>Why and How People Would Work</h4>
+    <a href="g7whywork.html">Rational motivation to work</a>
+    <a href="g8whywork2.html">Variations on rational motivation</a>
+    <a href="g9whywork3.html">Personal motivations to work</a>
+    <a href="g10freeriders.html">What about free riders?</a>
+    <a href="g11freeriders2.html">Equilibrium and free riders</a>
+    <a href="g11bcomp.html">Comparison with the exchange economy</a>
     <a href="underconstruction.html">What is work?</a>
+    <a href="underconstruction.html">Justice as caring</a>
+                <h4>Economic calculation and work</h4>
+    <a href="underconstruction.html">Industry equilibrium</a>
     <a href="underconstruction.html">Changed work conditions</a>
     <a href="underconstruction.html">Labour power over the means of production</a>
     <a href="underconstruction.html">Who does unpalatable jobs?</a>
-                <h4>Economic calculation</h4>
+                <h4>Economic calculation and distribution</h4>
+    <a href="underconstruction.html">Why would businesses supply?</a>
     <a href="underconstruction.html">Rational resource allocation</a>
     <a href="underconstruction.html">Social discernment</a>
     <a href="underconstruction.html">Time as a finite resource</a>
     <a href="underconstruction.html">Basic allocation</a>
     <a href="underconstruction.html">Bidding</a>
     <a href="underconstruction.html">Cake cutting</a>
+    <a href="underconstruction.html">The tragedy of the commons</a>
          <h4>Social outcomes</h4>
     <a href="underconstruction.html">Wealth decay</a>
-     <a href="underconstruction.html">Business practices</a>
+    <a href="underconstruction.html">Business practices</a>
     <a href="underconstruction.html">Economic factors of crime</a>
-    <a href="underconstruction.html">Indefinite growth</a>
-    <a href="underconstruction.html">Justice as caring</a>    
+    <a href="underconstruction.html">Sustainability</a>
+    <a href="underconstruction.html">Inequality as a construct</a>    
+    <a href="underconstruction.html">Justice as caring</a>
+             <h4>Giftmoots</h4>
+    <a href="underconstruction.html">Financial infrastructure</a>
+    <a href="underconstruction.html">Associative democracy</a>
+    <a href="underconstruction.html">Giftmoots</a>
+    <a href="underconstruction.html">Giftmoots as aggregators</a>
+    <a href="underconstruction.html">Giftmoots as democratic</a>
+    <a href="underconstruction.html">Giftmoots as investors</a>     
+    <a href="underconstruction.html">Giftmoots as industry bodies</a>     
+    <a href="underconstruction.html">Trust and anonymity</a>
+    <a href="underconstruction.html">Giftmoot membership</a>     
+    <a href="underconstruction.html">Greedmoots and thriftmoots</a>     
                     </details>
                 </details>
             </div>

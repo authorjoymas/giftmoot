@@ -34,7 +34,7 @@ The other factor is tax.  Governments make the argument that they can only affor
 
 The additions needed to an exchange economy in order to make it function, therefore, are many and complicated.  The picture is no longer of the productive sector, the remunerated and the under-remunerated, but also of the government and an extra type of economic transfer.  Filling in the holes in the exchange economy requires a host of scaffolding.
 
-See fig. govt. model
+![Government Exchange Model](/images/fig3gov.png)
 
 ## Community gifting
 
