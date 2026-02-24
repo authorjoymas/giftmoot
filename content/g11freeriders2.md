@@ -18,7 +18,7 @@ For the moment I am also interested in people who _can_ work, and people who _do
 
 The result is that I have a highly simplified model, but one which I think is still useful and indicative.  From this model, I think we can draw the following relationship, which suggests that the more workers working, the higher the quality of life:
 
-![Worker Requirements](/images/11fig1.png)
+![Worker Requirements|50%](/images/11fig1.png)
 
 Now, I'm not suggesting that this line is precisely accurate rather than indicative - it could, for example, grow quickly and then plateau out, suggesting that each additional worker provides less benefit:
 
