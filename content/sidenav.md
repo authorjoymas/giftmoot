@@ -1,11 +1,11 @@
 <div class="sidenav">
     <h4>Giftmoot Economy</h4>
+        <a href="index.html">Home</a>
+        <a href="overview.html">Overview</a>
     <h4>A Critique of the Exchange</h4>  
       <details>
     <summary>Expand</summary>
-    <a href="index.html">Home</a>
-    <a href="overview.html">Overview</a>
-    <h4>The Exchange Economy</h4>
+      <h4>The Exchange Economy</h4>
     <a href="x1market.html">Liberal market economies</a>
     <a href="x2marketmotivation.html">What do exchange economies motivate?</a>
     <a href="x1amarketreq.html">What do exchange economies require?</a>
@@ -44,8 +44,8 @@
     <a href="g10freeriders.html">What about free riders?</a>
     <a href="g11freeriders2.html">Equilibrium and free riders</a>
     <a href="g11bcomp.html">Comparison with the exchange economy</a>
-    <a href="underconstruction.html">What is work?</a>
-    <a href="underconstruction.html">Justice as caring</a>
+    <a href="g12whatiswork.html">What is work?</a>
+    <a href="g14summary.html">Summary</a>
                 <h4>Economic calculation and work</h4>
     <a href="underconstruction.html">Industry equilibrium</a>
     <a href="underconstruction.html">Changed work conditions</a>
@@ -54,6 +54,7 @@
                 <h4>Economic calculation and distribution</h4>
     <a href="underconstruction.html">Why would businesses supply?</a>
     <a href="underconstruction.html">Rational resource allocation</a>
+    <a href="underconstruction.html">Business practices</a>
     <a href="underconstruction.html">Social discernment</a>
     <a href="underconstruction.html">Time as a finite resource</a>
     <a href="underconstruction.html">Basic allocation</a>
@@ -62,12 +63,14 @@
     <a href="underconstruction.html">The tragedy of the commons</a>
          <h4>Social outcomes</h4>
     <a href="underconstruction.html">Wealth decay</a>
-    <a href="underconstruction.html">Business practices</a>
     <a href="underconstruction.html">Economic factors of crime</a>
     <a href="underconstruction.html">Sustainability</a>
     <a href="underconstruction.html">Inequality as a construct</a>    
     <a href="underconstruction.html">Justice as caring</a>
+          </details>
              <h4>Giftmoots</h4>
+             <details>
+    <summary>Expand</summary>
     <a href="underconstruction.html">Financial infrastructure</a>
     <a href="underconstruction.html">Associative democracy</a>
     <a href="underconstruction.html">Giftmoots</a>
@@ -79,5 +82,4 @@
     <a href="underconstruction.html">Giftmoot membership</a>     
     <a href="underconstruction.html">Greedmoots and thriftmoots</a>     
                     </details>
-                </details>
-            </div>
+                  </div>

@@ -73,9 +73,25 @@ However, in the model described above, the extra workers were already satisfied 
 
 ![Busy jobs](/images/12fig6busy.png)
 
-My suggestion is therefore that in an exchange system without an optimal UBI, instead of conceptualising paid work as an increase in motivation to work, it should be conceptualised as an increase in busy jobs, which increases the amount of work required for any particular quality of life instead of increasing quality of life with increased workers.
+My suggestion is therefore that in an exchange system without an optimal UBI, instead of conceptualising paid work as an increase in motivation to work, it should be conceptualised as an increase in busy jobs, which increases the amount of work required for any particular quality of life instead of increasing quality of life with increased workers.  This principle applies even if the reluctant workers are producing a higher quality of life for others, because concern for others is already included in the quality of life "baseline".
 
-The principle above applies even if the reluctant workers are producing a higher quality of life for others, because concern for others is already included in the quality of life "baseline".
+## Some examples
+
+Imagine, for example, a society of 100 people, all capable of work, where the equilibrium is that 40 people work.  If any fewer people worked, the quality of life would drop and motivate another person to work.  What would happen if we, for example, forced another 10 people to work?
+
+To answer this, it might be useful to give a metric to the quality of life improvements we are expecting to see.  So let's say that for every person who works, 2 more people are satisfied with the quality of life that results.  So when 40 people work, 80 people are satisfied.  This leaves 20 unsatisfied people.  If we then motivate 10 extra people to work, the satisfaction number should increase to 100 people, which means that the entire society finds the quality of life satisfactory.  Is it not then worth motivating the extra 10 people to work?
+
+I think there are three problems here.  The first is that to implement a system that motivates people to work involves work itself, which means that there is cost involved that would otherwise not have to be paid.  And while we might quibble that this is a busy job or not, it is certainly a type of unnecessary effort.  The systems we have currently - the exchange, punitive welfare, and so on - are rather costly.
+
+The second is that the 10 workers are likely to have a lower quality of life if they were people who otherwise would not have worked, so our maths about how many people are now satisfied becomes more complicated - we should be adding some and deducting some.  But even if that were the case, we could set 20 workers to the task, satisfy 40 more people (leading to 140 people satisfied - more than exist in the society), and then deduct the 20 unsatisfied workers, leaving us with 100 people satisfied.  That feels paradoxical, because the workers are both satisfied and unsatisfied, and probably occurs because we were adding in hypothetical people.  And this paradox remains regardless of who the initial dissatified people were - whether they were working workers, potential workers, or a combination.
+
+But more fundamental is the third problem, which is that the whole notion is incorrectly framed.  If 40 out of 100 people are working, but only 80 out of 100 people are satisfied with the quality of life, then there are likely up to 20 dissatisfied people who could potentially work, and it is unlikely that 40 is the actual equilibrium.
+
+This holds up even if there are non-workers who are unsatisfied with the quality of life.  Imagine a society of 200 people, of which 100 are non-workers, and 100 are potential workers, 40 of whom are working.  Imagine, too, that each worker now produces a quality of life increase that satisfies 4 additional people, meaning that our 40 workers can satisfy 160 out of the 200 people.  By adding in 10 more workers, we can fill that 40 person gap, ensuring that the non-workers have a satisfactory quality of life as well.  But, if the new workers already cared about the quality of life of the non-workers, they would already be working.  And if the existing workers don't care about the quality of life of the non-workers, why would they be motivated to increase the number of workers?  It is likely, therefore, that the existing workers would be interested in the quality of life of the non-workers, and the results of their work would be directed at improving the quality of life of the non-workers and not the potential workers.  If, then the potential workers were dissatisfied with their quality of life, they would begin working - indicating that the equilibrium was not really at 40.
+
+## The exchange isn't better
+
+People aren't as simple as these models imply, and neither is the economy.  What I've written above isn't some iron-clad, fool-proof reasoning (and I am suspicious that nothing in economics can really make that claim), but I think that it is indicative of the problems and benefits of the different economic models.  In general, I think it it suggestive that free riders are not some type of force that will bring down the economy if not forced to work, and that motivating people to work above the baseline motivation trend is more likely to introduce inefficiencies and a lower quality of life, rather than improve the quality of life overall.
 
 
 
