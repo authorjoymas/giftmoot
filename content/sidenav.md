@@ -47,10 +47,11 @@
     <a href="g12whatiswork.html">What is work?</a>
     <a href="g14summary.html">Summary</a>
                 <h4>Economic calculation and work</h4>
-    <a href="underconstruction.html">Industry equilibrium</a>
-    <a href="underconstruction.html">Changed work conditions</a>
-    <a href="underconstruction.html">Labour power over the means of production</a>
-    <a href="underconstruction.html">Who does unpalatable jobs?</a>
+    <a href="ec1industry.html">Industry equilibrium</a>
+    <a href="ec2workcond.html">Work and business conditions</a>
+    <a href="ec3labour.html">Labour power over business</a>
+    <a href="ec4unpalat.html">Who does unpalatable jobs?</a>
+    <a href="ec5compete.html">Competition and innovation</a>
                 <h4>Economic calculation and distribution</h4>
     <a href="underconstruction.html">Why would businesses supply?</a>
     <a href="underconstruction.html">Rational resource allocation</a>
@@ -77,7 +78,8 @@
     <a href="underconstruction.html">Giftmoots as aggregators</a>
     <a href="underconstruction.html">Giftmoots as democratic</a>
     <a href="underconstruction.html">Giftmoots as investors</a>     
-    <a href="underconstruction.html">Giftmoots as industry bodies</a>     
+    <a href="underconstruction.html">Giftmoots as industry bodies</a>
+    <a href="underconstruction.html">Giftmoots as competitive</a>
     <a href="underconstruction.html">Trust and anonymity</a>
     <a href="underconstruction.html">Giftmoot membership</a>     
     <a href="underconstruction.html">Greedmoots and thriftmoots</a>     
