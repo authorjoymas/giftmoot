@@ -52,28 +52,13 @@
     <a href="ec3labour.html">Labour power over business</a>
     <a href="ec4unpalat.html">Who does unpalatable jobs?</a>
     <a href="ec5compete.html">Competition and innovation</a>
-                <h4>Economic calculation and distribution</h4>
-    <a href="underconstruction.html">Why would businesses supply?</a>
-    <a href="underconstruction.html">Rational resource allocation</a>
-    <a href="underconstruction.html">Business practices</a>
-    <a href="underconstruction.html">Social discernment</a>
-    <a href="underconstruction.html">Time as a finite resource</a>
-    <a href="underconstruction.html">Basic allocation</a>
-    <a href="underconstruction.html">Bidding</a>
-    <a href="underconstruction.html">Cake cutting</a>
-    <a href="underconstruction.html">The tragedy of the commons</a>
-         <h4>Social outcomes</h4>
-    <a href="underconstruction.html">Wealth decay</a>
-    <a href="underconstruction.html">Economic factors of crime</a>
-    <a href="underconstruction.html">Sustainability</a>
-    <a href="underconstruction.html">Inequality as a construct</a>    
-    <a href="underconstruction.html">Justice as caring</a>
-          </details>
+              </details>
              <h4>Giftmoots</h4>
              <details>
     <summary>Expand</summary>
-    <a href="underconstruction.html">Financial infrastructure</a>
-    <a href="underconstruction.html">Associative democracy</a>
+              <h4>What are giftmoots?</h4>
+    <a href="gm1intro.html">Financial infrastructure</a>
+    <a href="gm2assoc.html">Associative democracy</a>
     <a href="underconstruction.html">Giftmoots</a>
     <a href="underconstruction.html">Giftmoots as aggregators</a>
     <a href="underconstruction.html">Giftmoots as democratic</a>
@@ -83,5 +68,15 @@
     <a href="underconstruction.html">Trust and anonymity</a>
     <a href="underconstruction.html">Giftmoot membership</a>     
     <a href="underconstruction.html">Greedmoots and thriftmoots</a>     
-                    </details>
+                <h4>Economic calculation and distribution</h4>
+    <a href="ec5consideration.html">Considered resource allocation</a>
+    <a href="underconstruction.html">Basic allocation</a>
+    <a href="underconstruction.html">Other allocation methods</a>
+         <h4>Social outcomes</h4>
+    <a href="underconstruction.html">Wealth decay</a>
+    <a href="underconstruction.html">Economic factors of crime</a>
+    <a href="underconstruction.html">Sustainability</a>
+    <a href="underconstruction.html">Inequality as a construct</a>    
+    <a href="underconstruction.html">Justice as caring</a>
+                   </details>
                   </div>
