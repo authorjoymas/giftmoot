@@ -59,17 +59,14 @@
               <h4>What are giftmoots?</h4>
     <a href="gm1intro.html">Financial infrastructure</a>
     <a href="gm2assoc.html">Associative democracy</a>
-    <a href="underconstruction.html">Giftmoots</a>
-    <a href="underconstruction.html">Giftmoots as aggregators</a>
-    <a href="underconstruction.html">Giftmoots as democratic</a>
-    <a href="underconstruction.html">Giftmoots as investors</a>     
-    <a href="underconstruction.html">Giftmoots as industry bodies</a>
-    <a href="underconstruction.html">Giftmoots as competitive</a>
+    <a href="gm3types.html">Types of giftmoots</a>
+    <a href="gm4dem.html">Giftmoots and democracy</a>
+    <a href="gm5evl.html">Exit and voice</a>
+    <a href="underconstruction.html">How giftmoots work</a>
     <a href="underconstruction.html">Trust and anonymity</a>
     <a href="underconstruction.html">Giftmoot membership</a>     
-    <a href="underconstruction.html">Greedmoots and thriftmoots</a>     
-                <h4>Economic calculation and distribution</h4>
-    <a href="ec5consideration.html">Considered resource allocation</a>
+             <h4>Economic calculation and distribution</h4>
+    <a href="underconstruction.html">Greedmoots and thriftmoots</a> 
     <a href="underconstruction.html">Basic allocation</a>
     <a href="underconstruction.html">Other allocation methods</a>
          <h4>Social outcomes</h4>
