@@ -31,3 +31,4 @@ But with no profit-motive, a new light-bulb design that last indefinitely is not
 Another way that busy jobs are created is when labour efficiencies are implemented and workers have to leave the company and find other work - even when other productive work is not immediately available.  To justify their allocation of resources, these displaced workers sometimes obtain new, unproductive jobs.  This is in part because governments like good economic stats and don't always like paying out welfare because it can build a poor fiscal reputation and go against the wishes of voters.
 
 With increases in labour efficiency being genuine instead of paradoxical, labour efficiency improvements should lead to less jobs overall - both because the same outcomes can be produced with less labour and there is no resistance to this, and also because there is no need for busy jobs and busy consumption.
+

@@ -62,17 +62,19 @@
     <a href="gm3types.html">Types of giftmoots</a>
     <a href="gm4dem.html">Giftmoots and democracy</a>
     <a href="gm5evl.html">Exit and voice</a>
-    <a href="underconstruction.html">How giftmoots work</a>
-    <a href="underconstruction.html">Trust and anonymity</a>
-    <a href="underconstruction.html">Giftmoot membership</a>     
+    <a href="gm5trust.html">Trust and anonymity</a>
+    <a href="gm7member.html">Giftmoot membership</a>     
              <h4>Economic calculation and distribution</h4>
-    <a href="underconstruction.html">Greedmoots and thriftmoots</a> 
-    <a href="underconstruction.html">Basic allocation</a>
-    <a href="underconstruction.html">Other allocation methods</a>
-         <h4>Social outcomes</h4>
-    <a href="underconstruction.html">Wealth decay</a>
+    <a href="gm8greed.html">Greedmoots and thriftmoots</a> 
+    <a href="gm9basic.html">Basic allocation</a>
+    <a href="gm10other.html">Other allocation methods</a>
+    <a href="gm6how.html">How a giftmoot economy works</a>
+             <h4>Social outcomes</h4>
+    <a href="soc1sum.html">Summary</a>
+    <a href="soc2sus.html">Sustainability</a>
+    <a href="underconstruction.html">Money in politics</a>
+    <a href="underconstruction.html">Impacts of AI</a>
     <a href="underconstruction.html">Economic factors of crime</a>
-    <a href="underconstruction.html">Sustainability</a>
     <a href="underconstruction.html">Inequality as a construct</a>    
     <a href="underconstruction.html">Justice as caring</a>
                    </details>
