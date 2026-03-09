@@ -1,4 +1,4 @@
-# Giftmoot
+# $\delta \vartheta$ Giftmoot
 
 What is the economy?  It isn't something you can pick up and hold - it's an idea, and an idea that we imagine a particular way.  In the Western world we generally live in liberal market economies, based on trading things with each other.  But this model has some problems, like entrenched poverty and regular crises.  This site explores the idea of a "giftmoot" economy - an economy that isn't based on exchanging things, but on non-reciprocal gifting.  The idea is that this type of economy has less poverty, less wealth inequality, greater sustainability, more moral business practices, more leisure time, and more.
 
