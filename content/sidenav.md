@@ -73,9 +73,8 @@
     <a href="soc1sum.html">Summary</a>
     <a href="soc2sus.html">Sustainability</a>
     <a href="soc3pol.html">Money in politics</a>
-    <a href="underconstruction.html">Impacts of AI</a>
-    <a href="underconstruction.html">Economic factors of crime</a>
-    <a href="underconstruction.html">Inequality as a construct</a>    
-    <a href="underconstruction.html">Justice as caring</a>
+    <a href="soc4ai.html">Impacts of AI</a>
+    <a href="soc5crime.html">Economic factors of crime</a>
+    <a href="soc7just.html">Justice as caring</a>
                    </details>
                   </div>
