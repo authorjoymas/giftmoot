@@ -83,37 +83,41 @@
     <h4>Demotherapeia</h4>  
       <details>
     <summary>Expand</summary>
-<a href="underconstruction.html">Overview</a>
+<a href="dema0intro.html">Overview</a>
             <h4>Democracy</h4>
-    <a href="underconstruction.html">What is democracy?</a>
-    <a href="underconstruction.html">Deliberative democracy</a>
-    <a href="underconstruction.html">Thick and thin democracy</a>
-    <a href="underconstruction.html">Deep democracy</a>
+    <a href="demb1what.html">What is democracy?</a>
+    <a href="demb2trad.html">Modern democracy</a>
+    <a href="demb3problem.html">Problems with modern democracy</a>
+    <a href="demb4delib.html">Deliberative democracy</a>
+    <a href="demb5thick.html">Thick, thin and underlying democracy</a>
                 <h4>Discourses and power</h4>
-    <a href="underconstruction.html">Discourses in general</a>
+    <a href="dis1gen.html">An overview of discourse</a>
+    <a href="dis2human.html">Human nature</a>    
     <a href="underconstruction.html">Examples of discourses</a>
-    <a href="underconstruction.html">Competition for power</a>
-    <a href="underconstruction.html">Power as use</a>
     <a href="underconstruction.html">Constructing inequalities</a>
     <a href="underconstruction.html">Deconstructing discourses</a>
     <a href="underconstruction.html">Particularisation</a>
-                <h4>Problem discourses</h4>
-    <a href="underconstruction.html">Democratic discourses</a>
-    <a href="underconstruction.html">Economic discourses</a>
-    <a href="underconstruction.html">Legal discourses</a>
-    <a href="underconstruction.html">Imperia</a>
-    <a href="underconstruction.html">Thinking like a boot</a>
-    <a href="underconstruction.html">The problem with rights</a>
-    <a href="underconstruction.html">Constructions and preconstructions</a>
-                    <h4>The process of demotherapeia</h4>
+                        <h4>The model of demotherapeia</h4>
+    <a href="underconstruction.html">The goals of a democratic project</a>
+    <a href="underconstruction.html">Democracy and discourse</a>                       
     <a href="underconstruction.html">Democracy as therapy</a>
+    <a href="underconstruction.html">Is it actually democracy?</a>
     <a href="underconstruction.html">Process overview</a>
+                        <h4>The process of demotherapeia</h4>
     <a href="underconstruction.html">Assembly</a>
     <a href="underconstruction.html">Immersion</a>
     <a href="underconstruction.html">Truth-telling</a>
     <a href="underconstruction.html">Reflection</a>
     <a href="underconstruction.html">Personal commitment</a>
-                    <h4>Law and justice</h4>
+    <a href="underconstruction.html">How norms are made</a>
+                        <h4>Power</h4>
+    <a href="underconstruction.html">Competition for power</a>
+    <a href="underconstruction.html">Power as use</a>
+    <a href="underconstruction.html">Imperia</a>
+    <a href="underconstruction.html">Thinking like a boot</a>
+    <a href="underconstruction.html">The problem with rights</a>
+                        <h4>Law and justice</h4>
+    <a href="underconstruction.html">No-power or particularised society</a>
     <a href="underconstruction.html">Why would people be good?</a>
     <a href="underconstruction.html">Causes of transgression</a>
     <a href="underconstruction.html">Justice as caring</a>
@@ -126,7 +130,7 @@
     <a href="underconstruction.html">Porous confederalism</a>
     <a href="underconstruction.html">Societal institutions</a>
     <a href="underconstruction.html">Economy</a>
-            <h4>Demotherapeian society</h4>
+                     <h4>Examples</h4>
     <a href="underconstruction.html">Responding to toxic culture</a>
     <a href="underconstruction.html">Standards for production</a>
     <a href="underconstruction.html">Health, autonomy and guardianship</a>
