@@ -89,20 +89,19 @@
     <a href="demb2trad.html">Modern democracy</a>
     <a href="demb3problem.html">Problems with modern democracy</a>
     <a href="demb4delib.html">Deliberative democracy</a>
+    <a href="dem4assoc.html">Associative democracy</a>
     <a href="demb5thick.html">Thick, thin and underlying democracy</a>
                 <h4>Discourses and power</h4>
     <a href="dis1gen.html">An overview of discourse</a>
     <a href="dis2human.html">Human nature</a>    
-    <a href="underconstruction.html">Examples of discourses</a>
-    <a href="underconstruction.html">Constructing inequalities</a>
-    <a href="underconstruction.html">Deconstructing discourses</a>
-    <a href="underconstruction.html">Particularisation</a>
+    <a href="dis3examples.html">Constructing power</a>
+    <a href="dis6inequal.html">Constructing inequalities</a>
+    <a href="dis7decon.html">Deconstructing discourses</a>
                         <h4>The model of demotherapeia</h4>
-    <a href="underconstruction.html">The goals of a democratic project</a>
-    <a href="underconstruction.html">Democracy and discourse</a>                       
+    <a href="dt1demdis.html">Democracy and discourse deconstruction</a>                       
     <a href="underconstruction.html">Democracy as therapy</a>
-    <a href="underconstruction.html">Is it actually democracy?</a>
     <a href="underconstruction.html">Process overview</a>
+    <a href="underconstruction.html">Is it actually democracy?</a>
                         <h4>The process of demotherapeia</h4>
     <a href="underconstruction.html">Assembly</a>
     <a href="underconstruction.html">Immersion</a>
