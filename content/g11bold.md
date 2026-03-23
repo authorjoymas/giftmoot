@@ -2,7 +2,42 @@
 
 In terms of free riders and quality of life, does an exchange economy operate differently or in a relatively similar fashion to a non-reciprocal gifing economy?
 
+## The exchange model
 
+The first thing to propose is that the relationship between the number of workers working and the quality of life is likely to be somewhat the same.  But there is a little caveat I want to include here: an exchange economy includes "busy jobs" that are questionably productive, and a non-reciprocal gifting economy would not.  So I would suggest that, compared to a non-reciprocal gifting economy, the line is "steeper", where quality of life tapers off a little earlier than in a non-reciprocal gifting economy, as some of the workers are not actually providing an increase to quality of life overall:
+
+![Worker Requirements](/images/11fig5x.png)
+
+
+Now, I can't claim at this point to know how many jobs are busy jobs, so I can't make a strong claim about how much steeper that line on the graph should be.
+
+The concept that people will be motivated to work if their quality of life is not acceptable would also be the same for an exchange economy, but also with a caveat: in an exchange society, people generally need to work to get resources, and so we should expect less people to drop out of work earlier.  I would suggest, also, that if wealth inequality is _high_, that the number of people dropping out would be fewer (not just because less people can experience an acceptable quality of life, but also because they need to work to pay the bills), and if it is _low_ we should expect a higher dropout rate (when people manage to retire, whether from wealth or pensions), though there would still be a floor of people who need to work to pay their bills regardless of the quality of life.
+
+You might also expect to see a higher dropout rate in economies where there are generous and universal welfare systems as, for example, people can take longer parental leave and take longer to find jobs, but the empirical evidence tends to suggest otherwise - that people who are supported by welfare find it more motivating and easier to find a stable, long-term job.  On the other hand, restrictive welfare systems tend to reduce the amount of people getting jobs (though, I will be careful to state, not necessarily all that much less _work_, if we include unpaid caring work and the like).
+
+In any case, I think we should expect an exchange economy to have a more persistent worker base as quality of life increases:
+
+![Worker Motivation](/images/11fig6x.png)
+
+
+We can then look for an equilibrium point, as we did for a non-reciprocal gifting economy:
+
+![Exchange equilibrium](/images/11fig7x.png)
+
+
+
+## Comparison
+
+The next thing to do is then to compare the two economic models.  Without a good backing of empirical evidence, it is difficult to say exactly how they might compare, and so there are at least the three following main variations, where the equilibrium fall at the same quality of life, or where one economy produces a better outcome than the other:
+
+![Comparison Equal](/images/12fig1.png)
+
+![Comparison Exchange](/images/12fig2.png)
+
+![Comparison Gift](/images/12fig3.png)
+
+
+So an exchange economy could produce a higher quality of life, the same, or a lower quality of life than a non-reciprocal gifting economy.  This conclusion may not seem very helpful in making an argument in favour of either.  However, I think that despite all three outcomes appearing reasonable and coherent, only one of them truly is.  That's because what I've started with as a fairly reasonable assumption (that there would be more workers motivated to work) is framed incorrectly.  So here I'll try and explain what that is.
 
 ## The relationship between worker requirements and motivations in an exchange economy
 
@@ -39,20 +74,6 @@ However, in the model described above, the extra workers were already satisfied 
 ![Busy jobs](/images/12fig6busy.png)
 
 My suggestion is therefore that in an exchange system without an optimal UBI, instead of conceptualising paid work as an increase in motivation to work, it should be conceptualised as an increase in busy jobs, which increases the amount of work required for any particular quality of life instead of increasing quality of life with increased workers.  This principle applies even if the reluctant workers are producing a higher quality of life for others, because concern for others is already included in the quality of life "baseline".
-
-There are also more jobs required for quality of life in an exchange economy than in a non-reciprocal gifting economy, because there are jobs required for money production and circulation, exchange contract faciliation, arbitration and enforcement, in financial markets and to offset risk such as through insurance.
-
-There's also a slightly different way that you could draw this graph.  In the original graph, the number of workers goes down as quality of life improves, as each worker decides that they don't need to work any more to achieve the society they want.  But in an exchange economy, many of hte benefits of society are withheld unless people pay, and so people are required to keep working - in other words, there is pressure to keep a minimum number of workers always working.  We can see this in the motivation to have a fairly low unemployment rate.  So we could take the original graph and draw a line for the "floor" of worker numbers that the exchange economy pressures, and see where it intersects:
-
-[Deadweight loss](/images/xdeadweight.png)
-
-This graph suggests that by adding more workers than the equilibrium point requires, we are lowering the potential quality of life - this gap represents the busy jobs.  This is pretty similar to a classic supply and demand graph in mainstream economics, where the horizontal axis represents _quantity_ (instead of quality) and the vertical axis represents _price_ (rather than labour).  That graph proposes that it costs more to make more things (the way that we need more work to get a higher quality of life) and that at higher prices less people are willing to buy the product.  There is then an equilibrium point where the price should settle (and tell producers how much to produce), the same way there is an equilibrium point where the number of workers will settle (and determine the overall quality of life).
-
-In this classic economics graph, if you tax a good, you raise the price beyond the equilibrium point, but that will reduce how many people are willing to buy it, lowering the amount to be produced.  This is often called an economic inefficiency, because the amount to be produced and enjoyed by consumers is lower than the "natural" amount.  This difference is called the _deadweight loss_.
-
-The parallel I want to draw is that by implementing an exchange and making people work who otherwise wouldn't, we've introduced a type of "tax" that increases the "price" (the amount of labour effort people have to put in) and reduced the overall "productivity" (quality of life), resulting in a deadweight loss.  This deadwight loss is represented by the red triangle above, and the price that we pay is unnecessary labour.
-
-The point is that under this model, an exchange economy is actually less economically efficient.
 
 ## Some examples
 
