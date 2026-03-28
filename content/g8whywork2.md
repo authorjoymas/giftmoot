@@ -4,7 +4,7 @@ In the previous article I proposed a toy economy set in an orchard with Alice an
 
 ## Alice's workweek
 
-Inteh orchard scenario I examined what would happen if Beth convinced Alice that she was not going to work, and that Alice would still be motivated to support Beth so that she has a replacement worker if she is ever sick.  But, in fact, Alice doesn't need to be sick in order to get Beth motivated to work.  Instead, Alice can declare that she is taking a holiday, and simply take a day off.  And as long as Alice can convince Beth that, for at least this one day, she is not going to work, Beth will be motivated to work.
+In the orchard scenario I examined what would happen if Beth convinced Alice that she was not going to work, and that Alice would still be motivated to support Beth so that she has a replacement worker if she is ever sick.  But, in fact, Alice doesn't need to be sick in order to get Beth motivated to work.  Instead, Alice can declare that she is taking a holiday, and simply take a day off.  And as long as Alice can convince Beth that, for at least this one day, she is not going to work, Beth will be motivated to work.
 
 Perhaps Alice can convince Beth that she is going to take a holiday one day a week, giving herself a six-day workweek.  Beth would then be motivated to work one day a week.  And, in fact, if Alice can convince Beth that she can only work a four-day workweek, then Beth will be motivated to work three days a week.  It is only one more step that to convince Beth that Alice would work just half the week, meaning Beth would work the remaining half, and we are back to the situation where each is effectively working for themselves.  Any more, and Alice and Beth's contexts are reversed.
 
