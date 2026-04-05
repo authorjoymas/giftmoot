@@ -100,11 +100,15 @@ h4 {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #c3c9c4;
+  background-color: #2f312f;
   color: #d1e2db;
 }
   tr:nth-child(even) {
-    background-color: #f6f6f6;
+    background-color: #645d5d;
+  }
+
+  tr:nth-child(odd) {
+    background-color: #877d7d;
   }
 
   /* footnotes */
