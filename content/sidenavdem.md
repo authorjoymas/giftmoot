@@ -79,11 +79,36 @@
     <a href="soc5crime.html">Economic factors of crime</a>
     <a href="soc7just.html">Justice as caring</a>
                    </details>
+             <h4>How to get there</h4>
+             <details>
+    <summary>Expand</summary>
+              <h4>Pre-imaginitive strategy</h4>
+    <a href="underconstruction.html">Awareness campaigns</a>
+    <a href="underconstruction.html">Alternate Reality</a>
+    <a href="underconstruction.html">Sharing</a>
+    <a href="underconstruction.html">Discourse deconstruction</a>
+                 <h4>Prefigurative strategy</h4>
+    <a href="underconstruction.html">Demotherapeia</a> 
+    <a href="underconstruction.html">Types of commitments</a>
+    <a href="underconstruction.html">Prefigurative giftmoots</a>
+    <a href="underconstruction.html">Publicising commitments</a>
+             <h4>Transitional strategy</h4>
+    <a href="underconstruction.html">Giftmoots as welfare organisations</a>
+    <a href="underconstruction.html">Transaction taxes</a>
+    <a href="underconstruction.html">Tax alternative vouchers</a>
+    <a href="underconstruction.html">Payoffs to businesses</a>
+    <a href="underconstruction.html">Tipping point</a>
+             <h4>State strategy</h4>
+    <a href="underconstruction.html">A giftmoot state</a>
+    <a href="underconstruction.html">Investment and trade incentives</a>
+    <a href="underconstruction.html">Offshore wealth</a>
+    <a href="underconstruction.html">Giftmoot state networks</a>
+                       </details>
                     </details>
     <h4>Demotherapeia</h4>  
       <details>
     <summary>Expand</summary>
-<a href="dema0intro.html">Overview</a>
+  <a href="dema0intro.html">Overview</a>
             <h4>Democracy</h4>
     <a href="demb1what.html">What is democracy?</a>
     <a href="demb2trad.html">Modern democracy</a>
@@ -99,8 +124,8 @@
     <a href="dis7decon.html">Deconstructing discourses</a>
                         <h4>The model of demotherapeia</h4>
     <a href="dt1demdis.html">Democracy and discourse deconstruction</a>                       
-    <a href="underconstruction.html">Democracy as therapy</a>
     <a href="underconstruction.html">Process overview</a>
+    <a href="underconstruction.html">Democracy as therapy</a>
     <a href="underconstruction.html">Is it actually democracy?</a>
                         <h4>The process of demotherapeia</h4>
     <a href="underconstruction.html">Assembly</a>
@@ -109,6 +134,7 @@
     <a href="underconstruction.html">Reflection</a>
     <a href="underconstruction.html">Personal commitment</a>
     <a href="underconstruction.html">How norms are made</a>
+    <a href="underconstruction.html">Post-truth and caring</a>
                         <h4>Power</h4>
     <a href="underconstruction.html">Competition for power</a>
     <a href="underconstruction.html">Power as use</a>
