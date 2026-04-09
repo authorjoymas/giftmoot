@@ -59,7 +59,7 @@ Commitments can inspire others, and the step of reflection can motivate people t
 
 People can also hold others to their commitments when they see them, or enquire about them at later assemblies.  While the commitments are not binding in some legal sense, they are a way for members of the assembly to hold each other accountable, both during and between assemblies.
 
-These are the six steps of the demotherapeian assembly.  They allow people to gather together, involve themselves in a process of sharing information and perspectives, gently challenging each other, motivating self-reflection through public statements, and reflective and responsive norm creation through personal commitments.
+These are the six steps of the demotherapeia.  They allow people to gather together, involve themselves in a process of sharing information and perspectives, gently challenging each other, motivating self-reflection through public statements, and reflective and responsive norm creation through personal commitments.
 
 
 

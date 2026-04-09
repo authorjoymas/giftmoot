@@ -35,3 +35,40 @@ In an economy where we have to make exchanges to get things we want or need, we 
 In a non-reciprocal gifting economy, where people get the things they want and need by gifting them to each other, accruing as many things as possible is likely more trouble than it's worth.  Unless you're using it, it's a cost to keep it around and you can't exchange it for anything.  That means you're not motivated to make lots of slightly different vinyls just to increase sales.  That's more environmentally friendly, and it cuts out a lot of "busy work" of making fairly useless things, meaning we could spend our time and resources do things that are more important.
 
 
+##
+
+A thought about markets and housing.
+
+Imagine there are 100 houses being built, and 100 people who want to live in a house.  In an ideal market situation, perhaps the wealthiest people would get the first pick of houses (that is, they would win the bids for their preferred houses), but eventually everyone would have a house.  But what if some of the people can't afford to pay the amount it cost to build the house?
+
+One answer is that they don't live in houses.
+
+Another answer is that the wealthy people buy the "spare" houses and rent them out.  But if the renters couldn't afford the mortgage, how can the wealthy people use that income to pay off the house?  It can work if the house is always going up in value, which can really only happen if people can always afford more to buy houses.  (And if a significant percentage of people who can afford to buy the houses are the ones not living in them, then what's pushing the price up?)
+
+The other answer is gift-giving.  Someone gets something without giving anything back in return.  Perhaps the builders get a grant from the government so they can sell the house at a loss to those who otherwise couldn't afford it.  Or perhaps those people get a subsidy to purchase the house.  Or perhaps the rental providers get a subsidy so that they don't make as much of a loss when they rent the place out.  But someone, somewhere, is getting a gift.
+
+No matter where you look, markets have gift-giving in them.  It's fundamental to making them work.  It's always the corrective measure applied when we realise markets are going awry.  So why don't we just cut out the middleman of the market and work directly with gift-giving?
+
+I have included for your pleasure some crude drawings to explain the basics of how I think things could work differently, and why it would be better.
+
+##
+
+A hypothetical:
+
+You are walking down the street when someone bumps into you and you drop - and smash - your phone.  Whose fault was it?  Who wasn't looking where they were going?  Perhaps it is impossible to tell. But as a consequence, someone will be out a chunk of money.  Perhaps one of you is in a tight position with money where you have to decide what to go without - phone, food, heating, petrol?  This is an unfortunate reality.
+
+But why?
+
+There is likely a brand new phone sitting, waiting at a phone shop somewhere.  And giving that phone to you won't make any food disappear off the shelves, or reduce the amount of power that power plants can generate, or cause a petrol shortage.  There's a somewhat arbitrary rationing going on.  Because it turns out we can (and do) produce all of these things in abundance, and you breaking your phone doesn't change that at all.  But we make you choose because of... personal responsibility? Fairness?  Justice?
+
+What is it that we cling to that makes us think this is the best way of doing things?  (Feel free to let me know.)
+
+##
+
+A thought about debt.
+
+With war ongoing, supply lines and production are being squeezed, and in a market that means less resources and higher prices, and more people struggling.
+
+In a gift-giving economy, people would have built each other houses, grown each other food, made each other medicine, and given these things away with no debt or payment required.  When the squeeze comes, those people would need to figure out how to get the right resources to the right places, and where to tighten their belts.  It would be tough.
+
+In a market economy, people build each other houses, but they require a payment, and that payment is often a large debt.  When the squeeze comes, people find it difficult to pay the higher prices because they still have to pay off their existing debt - they are excluded

@@ -124,9 +124,12 @@
     <a href="dis7decon.html">Deconstructing discourses</a>
                         <h4>The model of demotherapeia</h4>
     <a href="dt1demdis.html">Democracy and discourse deconstruction</a>                       
-    <a href="underconstruction.html">Process overview</a>
-    <a href="underconstruction.html">Democracy as therapy</a>
+    <a href="dt2process.html">Process overview</a>
+    <a href="dt3therapy.html">Democracy as therapy</a>
+    <a href="dt2when.html">When to use it</a>
     <a href="underconstruction.html">Is it actually democracy?</a>
+    <a href="underconstruction.html">Justice as caring</a>
+    <a href="underconstruction.html">Post-truth discourse</a>
                         <h4>The process of demotherapeia</h4>
     <a href="underconstruction.html">Assembly</a>
     <a href="underconstruction.html">Immersion</a>
@@ -134,7 +137,6 @@
     <a href="underconstruction.html">Reflection</a>
     <a href="underconstruction.html">Personal commitment</a>
     <a href="underconstruction.html">How norms are made</a>
-    <a href="underconstruction.html">Post-truth and caring</a>
                         <h4>Power</h4>
     <a href="underconstruction.html">Competition for power</a>
     <a href="underconstruction.html">Power as use</a>

@@ -53,7 +53,7 @@ One thing to note is that there are likely people who would want to work regardl
 
 These two graphs have the same axes: one for quality of life, and one for the percentage of possible workers actually working.  That means that we can neatly overlay the two and look at the relationship between them:
 
-![Equilibrium](/images/11fig3equil.png)
+![Equilibrium|20](/images/11fig3equil.png)
 
 
 Because one line is trending up (the worker-requirement line) and one line is trending down (the worker-motivation line), regardless of the specific curves that they may follow, it is very likely that there would be an intersection between the two lines.  This intersection indicates a point of equilibrium.
