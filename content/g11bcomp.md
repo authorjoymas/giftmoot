@@ -44,7 +44,7 @@ There are also more jobs required for quality of life in an exchange economy tha
 
 There's also a slightly different way that you could draw this graph.  In the original graph, the number of workers goes down as quality of life improves, as each worker decides that they don't need to work any more to achieve the society they want.  But in an exchange economy, many of hte benefits of society are withheld unless people pay, and so people are required to keep working - in other words, there is pressure to keep a minimum number of workers always working.  We can see this in the motivation to have a fairly low unemployment rate.  So we could take the original graph and draw a line for the "floor" of worker numbers that the exchange economy pressures, and see where it intersects:
 
-[Deadweight loss|20](/images/xdeadweight.png)
+[Deadweight loss](/images/xdeadweight.png)
 
 This graph suggests that by adding more workers than the equilibrium point requires, we are lowering the potential quality of life - this gap represents the busy jobs.  This is pretty similar to a classic supply and demand graph in mainstream economics, where the horizontal axis represents _quantity_ (instead of quality) and the vertical axis represents _price_ (rather than labour).  That graph proposes that it costs more to make more things (the way that we need more work to get a higher quality of life) and that at higher prices less people are willing to buy the product.  There is then an equilibrium point where the price should settle (and tell producers how much to produce), the same way there is an equilibrium point where the number of workers will settle (and determine the overall quality of life).
 

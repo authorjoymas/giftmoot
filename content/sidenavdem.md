@@ -82,6 +82,7 @@
              <h4>How to get there</h4>
              <details>
     <summary>Expand</summary>
+    <a href="underconstruction.html">Overview</a>
               <h4>Pre-imaginitive strategy</h4>
     <a href="underconstruction.html">Awareness campaigns</a>
     <a href="underconstruction.html">Alternate Reality</a>
@@ -127,9 +128,9 @@
     <a href="dt2process.html">Process overview</a>
     <a href="dt3therapy.html">Democracy as therapy</a>
     <a href="dt2when.html">When to use it</a>
-    <a href="underconstruction.html">Is it actually democracy?</a>
-    <a href="underconstruction.html">Justice as caring</a>
-    <a href="underconstruction.html">Post-truth discourse</a>
+    <a href="dt4whatisit">Is it actually democracy?</a>
+    <a href="dt5justice.html">Justice as caring</a>
+    <a href="dt6posttruth.html">Post-truth discourse</a>
                         <h4>The process of demotherapeia</h4>
     <a href="underconstruction.html">Assembly</a>
     <a href="underconstruction.html">Immersion</a>

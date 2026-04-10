@@ -72,3 +72,16 @@ With war ongoing, supply lines and production are being squeezed, and in a marke
 In a gift-giving economy, people would have built each other houses, grown each other food, made each other medicine, and given these things away with no debt or payment required.  When the squeeze comes, those people would need to figure out how to get the right resources to the right places, and where to tighten their belts.  It would be tough.
 
 In a market economy, people build each other houses, but they require a payment, and that payment is often a large debt.  When the squeeze comes, people find it difficult to pay the higher prices because they still have to pay off their existing debt - they are excluded
+
+##
+
+If you don't like wealth inequality, the answer isn't redistributing wealth, it's redefining wealth.
+
+A person with 10 houses doesn't have them because of their use-value - that is, they're not going to live in all 10 houses.  They have them because of their exchange-value - because they can sell them for things.
+
+But if we used gifting instead of exchanging, the use-value would stay and the exchange-value would disappear.  Now the houses are a bit of a burden to maintain.  Wouldn't it be easier to offload some of them?
+
+Stocks and bonds and money would mean nothing.  People with large pools of abstract wealth today get to choose where resources go.  But if we used gifting, then the people who owned the resources would get to choose, and only if the people who worked for them thought it was the right choice.
+
+For example, think about a person who owns a mansion and employs a host of cleaners, gardeners and other staff.  In a non-reciprocal gifting economy, these people would only come and work at the mansion if they believed that it was a useful and meaningful thing to do, or something that they genuinely enjoyed.  But if they all stopped work, and the mansion and its gardens fell into disrepair, there would not be any change to the overall meaningful productivity in the world - there would not be less food, less medicine, less energy production, and so on.  The mansion and its cleanliness produces none of those things.  So why do people work in the mansion?  Maybe because otherwise they would starve, even though there is enough food to feed them.  Because otherwise they would be homeless, even though there are enough homes to house them.  Because otherwise they would die, even though there is enough medicine to help them.  And, worse, not only does their work not produce any of these things, it still may not be enough to allow them to obtain them when they need them.  That is the nature of the exchange: to create more work and lower quality of life.
+
