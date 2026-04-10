@@ -80,7 +80,7 @@
     <a href="soc7just.html">Justice as caring</a>
                    </details>
                     </details>
-    <h4>Demotherapeia</h4>  
+    <h4 style="color:#94bba7" >Demotherapeia</h4>  
       <details>
     <summary>Expand</summary>
   <a href="dema0intro.html">Overview</a>
