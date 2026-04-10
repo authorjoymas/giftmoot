@@ -84,21 +84,21 @@
       <details>
     <summary>Expand</summary>
   <a href="dema0intro.html">Overview</a>
-            <h4>Democracy</h4>
+            <h4 style="color:#94bba7" >Democracy</h4>
     <a href="demb1what.html">What is democracy?</a>
     <a href="demb2trad.html">Modern democracy</a>
     <a href="demb3problem.html">Problems with modern democracy</a>
     <a href="demb4delib.html">Deliberative democracy</a>
     <a href="dem4assoc.html">Associative democracy</a>
     <a href="demb5thick.html">Thick, thin and underlying democracy</a>
-                <h4>Discourses and power</h4>
+            <h4 style="color:#94bba7" >Discourses and power</h4>
     <a href="dis1gen.html">An overview of discourse</a>
     <a href="dis2human.html">Human nature</a>    
     <a href="dis3examples.html">Constructing power</a>
     <a href="dis6inequal.html">Constructing inequalities</a>
     <a href="dis7decon.html">Deconstructing discourses</a>
-                        <h4>The model of demotherapeia</h4>
-    <a href="dt1demdis.html">Democracy and discourse deconstruction</a>                       
+            <h4 style="color:#94bba7" >The model of demotherapeia</h4>
+    <a style="color:#b2b1b1" href="dt1demdis.html">Democracy and discourse deconstruction</a>                       
     <a href="dt2process.html">Process overview</a>
     <a href="dt3therapy.html">Democracy as therapy</a>
     <a href="dt2when.html">When to use it</a>
