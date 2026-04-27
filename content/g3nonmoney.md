@@ -69,23 +69,23 @@ When the exchange is implemented, there will be people who do not have exchange 
 
 There are some market advocates - libertarians, anarcho-capitalists, die-hard Austrian school economists, and some others, perhaps - who imagine that this complexity arises not from the exchange being the centrepiece of the economy but from government intervention.  They depict the economy according to the graphic that I presented much earlier:
 
-![Pure Exchange Model](/images/fig1pureexchange.png)
+![Pure Exchange Model|100](/images/fig1pureexchange.png)
 
 But, as I noted, this depiction is too simplified, because it misses out those people who do not or cannot receive remuneration, and who therefore cannot have their needs met through exchanges:
 
-![Incomplete Exchange Model](/images/fig1aincomplete.png)
+![Incomplete Exchange Model|100](/images/fig1aincomplete.png)
 
 The solutions that have been implemented in markets have generally been non-reciprocal gifting solutions, either non-institutionally:
 
-![Gifting Exchange Model](/images/fig2realexchange.png)
+![Gifting Exchange Model|100](/images/fig2realexchange.png)
 
 Or institutionally, involving taxes and governments:
 
-![Government Exchange Model](/images/fig3gov.png)
+![Government Exchange Model|100](/images/fig3gov.png)
 
 An enormous amount of this stems from the unremunerated portion of the populace, and how to ensure that they receive an allocation of necessary goods.  But this unremunerated portion only exists as a separate category because of the nature of the exchange.  When the exchange is replaced by non-reciprocal gifting - or, rather, when the exchange is removed, given the non-reciprocal gifting is already present - this categorisation disappears as well.  That leads to a model of the economy that looks more like this:
 
-![Pure Gifting Model](/images/fig4gift.png)
+![Pure Gifting Model|100](/images/fig4gift.png)
 
 In this model of the economy, things get to where they need _without_ having to add in an extra type of economic transfer to accommodate for the gap, because the gap doesn't exist.  This gap - perhaps a gap that a lot of people accept as inevitable or natural - is constructed when we imagine the economy as based around the exchange.
 

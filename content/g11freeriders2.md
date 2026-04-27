@@ -18,19 +18,19 @@ For the moment I am also interested in people who _can_ work, and people who _do
 
 The result is that I have a highly simplified model, but one which I think is still useful and indicative.  From this model, I think we can draw the following relationship, which suggests that the more workers working, the higher the quality of life:
 
-![Worker Requirements](/images/11fig1.png)
+![Worker Requirements|100](/images/11fig1.png)
 
 Now, I'm not suggesting that this line is precisely accurate rather than indicative - it could, for example, grow quickly and then plateau out, suggesting that each additional worker provides less benefit:
 
-![Worker Requirements](/images/11fig1a.png)
+![Worker Requirements|100](/images/11fig1a.png)
 
 It could grow slowly and then increase suddenly, indicating that productivity is increased at scale:
 
-![Worker Requirements](/images/11fig1b.png)
+![Worker Requirements|100](/images/11fig1b.png)
 
 It could grow slowly, increase quickly as it hits a critical point, and then plateau out as we reach some sort of productive limit:
 
-![Worker Requirements](/images/11fig1c.png)
+![Worker Requirements|100](/images/11fig1c.png)
 
 Empirical evidence could certainly add some detail to the core concept, but I feel somewhat safe in suggesting that there is a general relationship here.
 
@@ -42,7 +42,7 @@ Imagine, then, that each possible worker has a different acceptable quality of l
 
 The indicative graph of the relationship between the percentage of workers working and the quality of life would look like this, once again a very generalised diagonal line:
 
-![Worker Motivation](/images/11fig2.png)
+![Worker Motivation|100](/images/11fig2.png)
 
 
 As with the other chart, there are many ways that this could be updated with empirical evidence, depending on whether workers are likely to drop out quickly or slowly, or if there are various stages of trends, but I think that the very generalised line is sufficiently indicative.
@@ -66,7 +66,7 @@ In fact, the graph misses something of great importance to quality of life: inno
 
 Similarly, we could maybe expect a cultural shift among workers over time to expect a higher and higher quality of life, which would change the relationship between the number of workers motivated to work and quality of life, extending this line so that less workers drop out at each measure of quality of life.  This would push the intersection point between the two relationships further and further along, so that we see improved quality of life overall but perhaps a similar percentage of workers motivated to work:
 
-![Innovation](/images/11fig4innovate.png)
+![Innovation|100](/images/11fig4innovate.png)
 
 
 The conclusion I want to draw here is that I doubt that free riders are an issue for economic health.  People are motivated to work until they can enjoy an acceptable quality of life, and this motivation, in relation to the number of workers required to reach any particular quality of life, will ensure that there are always workers, there is likely to be a largely acceptable quality of life, and people will likely be working to improve quality of life.

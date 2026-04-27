@@ -2,7 +2,7 @@ const advancedImage = {
     name: 'advancedImage',
     level: 'inline',
     tokenizer(src) {
-        const match = /^!\[(?:(\<|\>|\_)\|)?([a-zA-Z0-9\s\.\,\_\%\*\#\@\!\"\'\`\~\^\:\;\$\&\-]*)(?:\|([0-9]+))?\]\(([a-zA-Z0-9\.\_\-]*)\)(?:\(([a-zA-Z0-9\.\_\-]*)\))?/.exec(src);
+        const match = /^!\[(?:(\<|\>|\_)\|)?([a-zA-Z0-9\s\.\,\_\%\*\#\@\!\"\'\`\~\^\:\;\$\&\-]*)(?:\|([0-9]+))?\]\(([a-zA-Z0-9\.\_\-\/]*)\)(?:\(([a-zA-Z0-9\.\_\-\/]*)\))?/.exec(src);
         if (match) {
             const [ _ , align, imageText, width, imageUrl, url] = match;
             return {

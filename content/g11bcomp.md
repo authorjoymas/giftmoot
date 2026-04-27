@@ -12,7 +12,7 @@ Now we line up our entire working population again by acceptable quality of life
 
 We should end up with a graph roughly similar to the gifting economy graph:
 
-![Equilibrium](/images/11fig3equil.png)
+![Equilibrium|100](/images/11fig3equil.png)
 
 The line for the motivation of workers will vary depending on the amount of the UBI and how this relates to pricing and inflation and several other factors, but let's say that we've figured out a UBI that would match the motivation of our non-reciprocal gifting economy (whether that is totally realistic or not), and say that the equilibrium point is right in the centre of the chart.
 
@@ -20,23 +20,23 @@ What would cause that equilibrium point to move around?  What would place it hig
 
 Let's start with the number of jobs required to reach a particular quality of life.  We've already seen that innovation can improve this:
 
-![Innovation](/images/12fig4innovate.png)
+![Innovation|100](/images/12fig4innovate.png)
 
 But innovation is something that happens over time, and I am, for the moment, going to assume that it is the same for both economic models.  The other way we can change up worker requirements to have an impact is to make jobs produce less quality of life improvements.  We could do this by adding necessary but unproductive jobs, which are inefficiencies of the system.  This, intuitively, takes quality of life backwards - more people are working for less quality of life improvements:
 
-![Busy jobs](/images/12fig6busy.png)
+![Busy jobs|100](/images/12fig6busy.png)
 
 The other thing we can change is the UBI amount.  If we were to give more UBI, we might expect to see less people working as more people would reach their acceptable quality of life.  On the other hand, if we decrease UBI, we might expect to see more people working because they haven't reached their acceptable quality of life.  Now, this isn't strictly true, because good quality of life often encourages people to work, but I'll examine the worst case scenario here where it doesn't.  On the other hand, restrictive welfare can cause less people to work, but let's also assume here that the UBI is sufficiently generous that no one reaches this condition of stress.  I've made these assumptions to be as charitable to the exchange economy case as possible: that no one is in dire poverty and that monetary motivation to work is at least partly effective.
 
 If we reduce the UBI and it motivates more people to work, we should expect to see more people in productive jobs and a higher quality of life:
 
-![Lower UBI](/images/12fig7motivate.png)
+![Lower UBI|100](/images/12fig7motivate.png)
 
 If we were to decrease the UBI to as minimal as possible, we should be able to ensure the highest rate of worker participation in the economy, and therefore the highest quality of life.
 
 However, in the model described above, the extra workers were already satisfied with their quality of life, and therefore they don't gain any extra quality of life as a consequence of the work - in fact, their quality of life is presumably decreased because now they can't do and enjoy all the things that were going to satisfy them.  In that sense, the jobs they are doing are busy jobs.  With this in mind, I think we can reconceptualise the graph.  When we motivate more workers to work _who were already satisfied with their quality of life_, we are actually _reducing_ their quality of life.  The graph that illustrates busy jobs, lower quality of life and higher amounts of workers has already been introduced:
 
-![Busy jobs](/images/12fig6busy.png)
+![Busy jobs|100](/images/12fig6busy.png)
 
 My suggestion is therefore that in an exchange system without an optimal UBI, instead of conceptualising paid work as an increase in motivation to work, it should be conceptualised as an increase in busy jobs, which increases the amount of work required for any particular quality of life instead of increasing quality of life with increased workers.  This principle applies even if the reluctant workers are producing a higher quality of life for others, because concern for others is already included in the quality of life "baseline".
 
@@ -44,7 +44,7 @@ There are also more jobs required for quality of life in an exchange economy tha
 
 There's also a slightly different way that you could draw this graph.  In the original graph, the number of workers goes down as quality of life improves, as each worker decides that they don't need to work any more to achieve the society they want.  But in an exchange economy, many of hte benefits of society are withheld unless people pay, and so people are required to keep working - in other words, there is pressure to keep a minimum number of workers always working.  We can see this in the motivation to have a fairly low unemployment rate.  So we could take the original graph and draw a line for the "floor" of worker numbers that the exchange economy pressures, and see where it intersects:
 
-[Deadweight loss](/images/xdeadweight.png)
+[Deadweight loss|100](/images/xdeadweight.png)
 
 This graph suggests that by adding more workers than the equilibrium point requires, we are lowering the potential quality of life - this gap represents the busy jobs.  This is pretty similar to a classic supply and demand graph in mainstream economics, where the horizontal axis represents _quantity_ (instead of quality) and the vertical axis represents _price_ (rather than labour).  That graph proposes that it costs more to make more things (the way that we need more work to get a higher quality of life) and that at higher prices less people are willing to buy the product.  There is then an equilibrium point where the price should settle (and tell producers how much to produce), the same way there is an equilibrium point where the number of workers will settle (and determine the overall quality of life).
 
