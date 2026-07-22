@@ -85,3 +85,63 @@ Stocks and bonds and money would mean nothing.  People with large pools of abstr
 
 For example, think about a person who owns a mansion and employs a host of cleaners, gardeners and other staff.  In a non-reciprocal gifting economy, these people would only come and work at the mansion if they believed that it was a useful and meaningful thing to do, or something that they genuinely enjoyed.  But if they all stopped work, and the mansion and its gardens fell into disrepair, there would not be any change to the overall meaningful productivity in the world - there would not be less food, less medicine, less energy production, and so on.  The mansion and its cleanliness produces none of those things.  So why do people work in the mansion?  Maybe because otherwise they would starve, even though there is enough food to feed them.  Because otherwise they would be homeless, even though there are enough homes to house them.  Because otherwise they would die, even though there is enough medicine to help them.  And, worse, not only does their work not produce any of these things, it still may not be enough to allow them to obtain them when they need them.  That is the nature of the exchange: to create more work and lower quality of life.
 
+##
+
+Sometimes when I talk to people about a non-reciprocal gifting economy, they ask questions like:
+
+"But why would people work?" (On the assumption that they are only motivated by money)
+
+"But without prices how can we rationally allocate goods?" (On the assumption that prices are the best indicator)
+
+"But how can we aim for the best efficiency?" (On the assumption that profit motivation leads to good efficiency)
+
+Here's a story about farmers not selling their land for data-centres - despite the enormous profits they could make.  They value the agricultural work, the peace of nature, the history.  People already can, and do, choose work (and reject work) and choose investments (and reject investments) based on the social benefits, their moral values, their care for others.  If anything, these considerations are suppressed by money, making our economy less diverse, less considerate, and more single-minded.  But there are people who are willing to stand firm to those considerations I imagine it would be a slightly slower, more peaceful and more prosperous place to live, with less pollution, less exploitation and, quite frankly, less crap.
+
+https://www.theguardian.com/technology/2026/feb/21/us-farmers-datacenters
+
+##
+
+Stumbled upon this reddit thread today.  Here is a person who needs $270 to repair their car, and bought a $25 meal.  I've curated some of the replies, which suggest this person shouldn't get the meal and instead be more frugal, eat rice and beans, learn how to save, and practice delayed gratification in order to repair their car.
+
+The questions that occurred to me were:
+
+Who *does* deserve to have a good meal and have their repaired?  Why not this person?  Why other people?
+
+Is the world in such a state that if we give this person a good meal, there won't be enough resources to have their car repaired?
+
+Or have we just made a world where some people have lots and some people have little, and we've trained ourselves to think that it's the person's fault and this is what they deserve?
+
+I'm happy to get some perspective in the replies.
+
+##
+
+I've heard that the Labor government might be considering some changes to things like negative gearing in the next Budget.
+
+For some, this is probably a welcome start to addressing wealth inequality and the difficulty of buying a home.  For others, it signals a dangerous shake-up of a significant chunk of investment in the Australian economy.  If the value of housing toppled, it would burst an economic bubble, the same thing that triggered the 2008 Global Financial Crisis.
+
+But luckily the structure of the economy is largely something we imagine, and so we can imagine all sorts of creative solutions out of almost any puzzle.  Usually when we say, "We can't do that" or "There's no way to fix this" or "There's no money" we're working with imagined constraints, all the way up until crisis point (and sometimes beyond).
+
+Here's some example articles:
+
+https://www.afr.com/policy/tax-and-super/crazy-idea-to-limit-negative-gearing-to-two-homes-20260410-p5zmsw
+
+https://jacobin.com/2026/04/australia-housing-landlords-rba-parliament
+
+
+https://www.abc.net.au/news/2026-04-10/australia-economy-underpinned-by-housing-paul-schroder/106550386
+
+"Australia's entire economy is built on housing, and operates on a "myth" that we can keep generating wealth by constantly inflating housing prices, argues the head of Australia's largest super fund."
+
+##
+
+If every country were to pay down their debt, it would require either an economic growth beyond anything ever seen (and a large increase in private sector debt to provide the money), an increase in inflation as bonds are converted into liquid money, or a level of austerity that would cause an economic crisis.
+
+Sovereign debt is the phase change between an old system where currency wasn't produce by fiat, and a new system that we haven't encountered yet.  Don't buy into the idea that governments can't use resources because the debt needs to be paid off, and think carefully about which post-debt future you want to live in.
+
+##
+
+Markets are a policy choice.  Every time someone has to choose between food and medicine - even though we have both in abundance - that choice should haunt us.
+
+##
+
+Asking a sick person to pay for medicine doesn't meet any standard of justice at all.
