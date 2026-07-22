@@ -1,6 +1,6 @@
 # Hasn't the exchange been successful?
 
-At this point I have proposed that the exchange is problematic, that it came from a certain concept of justice, and that it has persisted despite these problems because of legal institutions and people who are empowered by it.  But there is also another common argument, which is that the exchange has been wildly successful in comparison to other types of economic system, and that it has benefited society greatly in a way that no other economic system could.
+At this point I have proposed that the exchange is problematic, that it likely came from a certain concept of justice, and that it has persisted despite these problems because of legal institutions and people who are empowered by it.  But there is also another common argument, which is that the exchange has been wildly successful in comparison to other types of economic system, and that it has benefited society greatly in a way that no other economic system could.
 
 The claim is largely associated with liberal market economies and placed into comparison with two other systems: the apparent feudal system that preceded liberal market economies, and communist or socialist societies, especially as they have been practised in the USSR and China.
 
@@ -9,6 +9,22 @@ The modern liberal market economy, in this argument, was developed from more pri
 Moreover, the argument goes, Western Europe and the US, using liberal market economies, outcompeted communist Eastern Europe and the USSR, making liberal market economies the most prosperous economies in all of history.  And even if this competition were considered uncontroversially fair and the comparative success completely true, the further conclusion - that liberal market economies are the greatest economies _possible_ - is not really warranted unless communism (in the form practiced by the USSR) is the only other system possible.
 
 Are there other explanations for the success of liberal market economies, or are they predicated on the success of the exchange themselves?  There are a few alternative possibilities: colonialism concentrating power and wealth to Europe and selected colonies, industrialisation giving dominance to certain states, democracy being more important than markets, and the presence and use of non-reciprocal gifting itself.
+
+## Increased liquidity
+
+There is a strong argument to be made that modern liberal market economies do something very useful that previous economies didn't, which is that they increased capital flow and allowed people to utilise resources more productively. I think this argument is true, but it requires some context.
+
+Economic productivity comes from the use of real resources: material things, and labour. Bricks, wood, coal, food, medicine, energy, and physical and mental labour are all real resources. The claim some people make of liberal market economics is that liberal market economies allow us to use more of these resources, and more efficiently.
+
+In comparison to previous market economies, this seems straightforwardly true. Liberal market economies allow people to loan, create and invest capital more freely due to market institutions such as innovative banking and financial systems. But it's worth noting that this ability to more freely move capital is in comparison to the _previous_ market systems, which were simply more restrictive in the way that capital could be allocated.
+
+Ultimately, markets work with the following logic: real resources can only move around if they are part of an exchange. That makes it tough to move things around at all. In a hypothetical market made purely of real resources, for example, people would run into the "double coincidence of wants", where things can only be exchanged if both parties have the exact thing that the other person wants. That's not always going to happen, and so it would be difficult to move real resources around. (This is also why most modern theorists don't believe that purely barter economies ever existed - gifting and debt were the main ways that economies were organised.)
+
+This is why market supporters champion the invention of money. Money, as the medium of exchange, allows people to exchange things with each other even if they don't have the exact real resources that the other person wants. The invention of money allows for real resources to be moved around more often and more easily, which leads to higher productivity. But if there is a only a small and fixed amount of money, it won't flow all that quickly or all that well, which will keep productivity down.
+
+The invention of capital markets, stock exchanges, and modern investment and loan practices have allowed money to flow more easily, which has led to an increase in productivity of real resources. This is the success of liberal market economies. (And we can see when that principle is tested, such as in a liquidity crisis like the 2008 Global Financial Crisis - when the flow of money dries up, so does productivity, even if the same real resources are available.)
+
+But it's worth noting that this increase in real resource use is still within the market context, which says: real resources can't be used unless there is an exchange happening. Liberal market economies have made exchanges easier, and that's a big part of their success. But we can also consider what it would be like if that original constraint wasn't there: if real resources could be used _without_ an exchange to "activate" them. If the constraint was gone, people could use real resources _more_ freely than in a liberal market economy, and have greater productivity.
 
 ## Colonialism
 

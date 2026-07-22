@@ -82,17 +82,20 @@
              <h4>How to get there</h4>
              <details>
     <summary>Expand</summary>
-    <a href="underconstruction.html">Overview</a>
+    <a href="how1overview.html">Overview</a>
               <h4>Pre-imaginitive strategy</h4>
-    <a href="underconstruction.html">Awareness campaigns</a>
-    <a href="underconstruction.html">Alternate Reality</a>
-    <a href="underconstruction.html">Sharing</a>
-    <a href="underconstruction.html">Discourse deconstruction</a>
+    <a href="how1reserve.html">building a reserve</a>
+    <a href="how2concept.html">Familiarity with the concept</a>
+    <a href="how3benefits.html">Familiarity with the benefits</a>
+    <a href="underconstruction.html">Discourse deconstruction</a>    
+    <a href="underconstruction.html">Pre-imaginative exercises</a>
+    <a href="underconstruction.html">Collecting specific examples</a>
                  <h4>Prefigurative strategy</h4>
+    <a href="underconstruction.html">Places of listening</a>                 
     <a href="underconstruction.html">Demotherapeia</a> 
     <a href="underconstruction.html">Types of commitments</a>
-    <a href="underconstruction.html">Prefigurative giftmoots</a>
     <a href="underconstruction.html">Publicising commitments</a>
+    <a href="underconstruction.html">Prefigurative giftmoots</a>
              <h4>Transitional strategy</h4>
     <a href="underconstruction.html">Giftmoots as welfare organisations</a>
     <a href="underconstruction.html">Transaction taxes</a>

@@ -40,3 +40,6 @@ In response, the Australian government doubled the amount of welfare for unemplo
 These two cases indicate something very important: **when we had good material conditions, we imagined the economy in such a way that we caused poverty, and when we had worse material conditions, we imagined the economy differently and managed to reduce poverty**.  While material conditions are a big factor in overall economic health, the way we imagine the economy has an enormous, life-changing impact.  We _can_ imagine a better economy.
 
 In the following few articles, I'm going to suggest that the problem comes from the very basic concept we use to organise the economy: the exchange.  And I'm going to suggest that we already know a better organising principle, because we use it all the time: gift-giving.  I want to imagine an economy built on gift-giving, and see what it would look like.
+
+You can contact me at giftmoot@evanjoymas.com
+
